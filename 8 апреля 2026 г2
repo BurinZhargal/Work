@@ -1,0 +1,1464 @@
+<operationResult xmlns="http://midpoint.evolveum.com/xml/ns/public/common/common-3" xmlns:c="http://midpoint.evolveum.com/xml/ns/public/common/common-3" xmlns:icfs="http://midpoint.evolveum.com/xml/ns/public/connector/icf-1/resource-schema-3" xmlns:org="http://midpoint.evolveum.com/xml/ns/public/common/org-3" xmlns:q="http://prism.evolveum.com/xml/ns/public/query-3" xmlns:ri="http://midpoint.evolveum.com/xml/ns/public/resource/instance-3" xmlns:t="http://prism.evolveum.com/xml/ns/public/types-3">
+    <operation>com.evolveum.midpoint.web.page.self.PageAssignmentsList.requestAssignments</operation>
+    <status>fatal_error</status>
+    <importance>normal</importance>
+    <end>2026-04-08T12:07:22.197+02:00</end>
+    <token>1000000000000817711</token>
+    <message>There was an error processing your request.</message>
+    <partialResults>
+        <operation>com.evolveum.midpoint.model.api.ModelService.executeChanges</operation>
+        <status>fatal_error</status>
+        <importance>normal</importance>
+        <start>2026-04-08T12:07:21.029+02:00</start>
+        <end>2026-04-08T12:07:22.197+02:00</end>
+        <microseconds>1167625</microseconds>
+        <invocationId>13408356</invocationId>
+        <params>
+            <entry key="options">
+                <paramValue>ModelExecuteOptions(executeImmediatelyAfterApproval=false,force=false,reconcile=false,reconcileAffected=false,requestBusinessContext,initialPartialProcessing=(I-,P-))</paramValue>
+            </entry>
+        </params>
+        <token>1000000000000817710</token>
+        <message>Workflow process(es) could not be started: com.evolveum.midpoint.util.exception.SystemException: Invalid character with regards to XML (code 57101) in 'SHOUT: 2026-04-08 12:46:44.595406: MCPLogger: --- ENOK MCP v2026 ACTIVE ---  INFO: 2026-04-08 12:46:44.595406: MCPLogger: Listening on port 8080  2026-04-08T12:46:51.176630  0:00:00.000331 GET     [200...'</message>
+        <partialResults>
+            <operation>com.evolveum.midpoint.model.impl.lens.Clockwork.run</operation>
+            <status>fatal_error</status>
+            <importance>normal</importance>
+            <start>2026-04-08T12:07:21.029+02:00</start>
+            <end>2026-04-08T12:07:22.197+02:00</end>
+            <microseconds>1167367</microseconds>
+            <invocationId>13408357</invocationId>
+            <token>1000000000000817709</token>
+            <message>Workflow process(es) could not be started: com.evolveum.midpoint.util.exception.SystemException: Invalid character with regards to XML (code 57101) in 'SHOUT: 2026-04-08 12:46:44.595406: MCPLogger: --- ENOK MCP v2026 ACTIVE ---  INFO: 2026-04-08 12:46:44.595406: MCPLogger: Listening on port 8080  2026-04-08T12:46:51.176630  0:00:00.000331 GET     [200...'</message>
+            <partialResults>
+                <operation>com.evolveum.midpoint.model.impl.lens.Clockwork.click</operation>
+                <qualifier>INITIAL.e0p0</qualifier>
+                <status>fatal_error</status>
+                <importance>normal</importance>
+                <start>2026-04-08T12:07:21.029+02:00</start>
+                <end>2026-04-08T12:07:22.196+02:00</end>
+                <microseconds>1167130</microseconds>
+                <invocationId>13408358</invocationId>
+                <context>
+                    <entry key="task">
+                        <paramValue>Task(id:1775642841029-0-1, name:null, oid:null)</paramValue>
+                    </entry>
+                    <entry key="context">
+                        <paramValue>LensContext(s=INITIAL, W(e=0,p=0): LensFocusContext(UserType:1c4dd3ef-ee9b-4859-844d-73a582954a43), [])</paramValue>
+                    </entry>
+                </context>
+                <token>1000000000000817708</token>
+                <message>Workflow process(es) could not be started: com.evolveum.midpoint.util.exception.SystemException: Invalid character with regards to XML (code 57101) in 'SHOUT: 2026-04-08 12:46:44.595406: MCPLogger: --- ENOK MCP v2026 ACTIVE ---  INFO: 2026-04-08 12:46:44.595406: MCPLogger: Listening on port 8080  2026-04-08T12:46:51.176630  0:00:00.000331 GET     [200...'</message>
+                <partialResults>
+                    <operation>com.evolveum.midpoint.model.impl.lens.projector.Projector.project</operation>
+                    <qualifier>INITIAL.e0p0</qualifier>
+                    <status>success</status>
+                    <importance>normal</importance>
+                    <start>2026-04-08T12:07:21.075+02:00</start>
+                    <end>2026-04-08T12:07:21.872+02:00</end>
+                    <microseconds>797309</microseconds>
+                    <invocationId>13408362</invocationId>
+                    <params>
+                        <entry key="fromStart">
+                            <paramValue>true</paramValue>
+                        </entry>
+                    </params>
+                    <context>
+                        <entry key="executionWave">
+                            <paramValue>0</paramValue>
+                        </entry>
+                        <entry key="projectionWave">
+                            <paramValue>0</paramValue>
+                        </entry>
+                    </context>
+                    <token>1000000000000817701</token>
+                    <partialResults>
+                        <operation>com.evolveum.midpoint.model.impl.lens.projector.Projector.load</operation>
+                        <qualifier>INITIAL.e0p0</qualifier>
+                        <status>success</status>
+                        <importance>normal</importance>
+                        <start>2026-04-08T12:07:21.075+02:00</start>
+                        <end>2026-04-08T12:07:21.193+02:00</end>
+                        <microseconds>117903</microseconds>
+                        <invocationId>13408363</invocationId>
+                        <token>1000000000000817651</token>
+                    </partialResults>
+                    <partialResults>
+                        <operation>com.evolveum.midpoint.model.impl.lens.projector.Projector.focus</operation>
+                        <qualifier>INITIAL.e0p0</qualifier>
+                        <status>success</status>
+                        <importance>normal</importance>
+                        <start>2026-04-08T12:07:21.193+02:00</start>
+                        <end>2026-04-08T12:07:21.872+02:00</end>
+                        <microseconds>679014</microseconds>
+                        <invocationId>13408402</invocationId>
+                        <token>1000000000000817700</token>
+                        <partialResults>
+                            <operation>com.evolveum.midpoint.model.impl.lens.projector.Projector.focusActivation</operation>
+                            <qualifier>INITIAL.e0p0</qualifier>
+                            <status>success</status>
+                            <importance>normal</importance>
+                            <start>2026-04-08T12:07:21.193+02:00</start>
+                            <end>2026-04-08T12:07:21.193+02:00</end>
+                            <microseconds>208</microseconds>
+                            <invocationId>13408403</invocationId>
+                            <token>1000000000000817652</token>
+                        </partialResults>
+                        <partialResults>
+                            <operation>com.evolveum.midpoint.model.impl.lens.projector.Projector.objectTemplateBeforeAssignments</operation>
+                            <qualifier>INITIAL.e0p0</qualifier>
+                            <status>success</status>
+                            <importance>normal</importance>
+                            <start>2026-04-08T12:07:21.193+02:00</start>
+                            <end>2026-04-08T12:07:21.280+02:00</end>
+                            <microseconds>86170</microseconds>
+                            <invocationId>13408404</invocationId>
+                            <token>1000000000000817657</token>
+                            <partialResults>
+                                <operation>com.evolveum.midpoint.repo.cache.RepositoryCache.getObject</operation>
+                                <qualifier>ObjectTemplateType</qualifier>
+                                <status>success</status>
+                                <importance>normal</importance>
+                                <start>2026-04-08T12:07:21.194+02:00</start>
+                                <end>2026-04-08T12:07:21.194+02:00</end>
+                                <microseconds>86</microseconds>
+                                <invocationId>13408405</invocationId>
+                                <params>
+                                    <entry key="options"/>
+                                    <entry key="oid">
+                                        <paramValue>9c7000d7-a6cc-4f63-b041-3bcc469a5d73</paramValue>
+                                    </entry>
+                                    <entry key="type">
+                                        <paramValue>http://midpoint.evolveum.com/xml/ns/public/common/common-3#ObjectTemplateType</paramValue>
+                                    </entry>
+                                </params>
+                                <context>
+                                    <entry key="objectName">
+                                        <paramValue>partial-template-user-compute-country</paramValue>
+                                    </entry>
+                                </context>
+                                <token>1000000000000817653</token>
+                            </partialResults>
+                            <partialResults>
+                                <operation>com.evolveum.midpoint.repo.cache.RepositoryCache.searchObjectsIterative</operation>
+                                <qualifier>AbstractRoleType</qualifier>
+                                <status>success</status>
+                                <importance>normal</importance>
+                                <start>2026-04-08T12:07:21.194+02:00</start>
+                                <end>2026-04-08T12:07:21.203+02:00</end>
+                                <microseconds>8395</microseconds>
+                                <invocationId>13408406</invocationId>
+                                <params>
+                                    <entry key="query">
+                                        <paramValue>Q{EQUAL: autoassign/enabled,PPV(Boolean:true),null paging</paramValue>
+                                    </entry>
+                                    <entry key="options">
+                                        <paramValue>ObjectOperationOptions(/:readOnly)</paramValue>
+                                    </entry>
+                                    <entry key="type">
+                                        <paramValue>http://midpoint.evolveum.com/xml/ns/public/common/common-3#AbstractRoleType</paramValue>
+                                    </entry>
+                                </params>
+                                <returns>
+                                    <entry key="objectsFound">
+                                        <paramValue>0</paramValue>
+                                    </entry>
+                                    <entry key="interrupted">
+                                        <paramValue>false</paramValue>
+                                    </entry>
+                                </returns>
+                                <token>1000000000000817656</token>
+                                <partialResults>
+                                    <operation>com.evolveum.midpoint.repo.api.RepositoryService.searchObjectsIterative</operation>
+                                    <qualifier>AbstractRoleType</qualifier>
+                                    <status>success</status>
+                                    <importance>normal</importance>
+                                    <start>2026-04-08T12:07:21.195+02:00</start>
+                                    <end>2026-04-08T12:07:21.203+02:00</end>
+                                    <microseconds>8311</microseconds>
+                                    <invocationId>13408407</invocationId>
+                                    <params>
+                                        <entry key="query">
+                                            <paramValue>Q{EQUAL: autoassign/enabled,PPV(Boolean:true),null paging</paramValue>
+                                        </entry>
+                                        <entry key="type">
+                                            <paramValue>com.evolveum.midpoint.xml.ns._public.common.common_3.AbstractRoleType</paramValue>
+                                        </entry>
+                                    </params>
+                                    <token>1000000000000817655</token>
+                                    <partialResults>
+                                        <operation>com.evolveum.midpoint.repo.api.RepositoryService.searchObjects</operation>
+                                        <qualifier>AbstractRoleType</qualifier>
+                                        <status>success</status>
+                                        <importance>normal</importance>
+                                        <start>2026-04-08T12:07:21.195+02:00</start>
+                                        <end>2026-04-08T12:07:21.203+02:00</end>
+                                        <microseconds>8254</microseconds>
+                                        <invocationId>13408408</invocationId>
+                                        <params>
+                                            <entry key="query">
+                                                <paramValue>Q{EQUAL: autoassign/enabled,PPV(Boolean:true),PAGING: M: 50,C:###null-oid###,</paramValue>
+                                            </entry>
+                                            <entry key="type">
+                                                <paramValue>com.evolveum.midpoint.xml.ns._public.common.common_3.AbstractRoleType</paramValue>
+                                            </entry>
+                                        </params>
+                                        <token>1000000000000817654</token>
+                                    </partialResults>
+                                </partialResults>
+                            </partialResults>
+                        </partialResults>
+                        <partialResults>
+                            <operation>com.evolveum.midpoint.model.impl.lens.projector.Projector.focusActivation</operation>
+                            <qualifier>INITIAL.e0p0</qualifier>
+                            <status>success</status>
+                            <importance>normal</importance>
+                            <start>2026-04-08T12:07:21.280+02:00</start>
+                            <end>2026-04-08T12:07:21.281+02:00</end>
+                            <microseconds>355</microseconds>
+                            <invocationId>13408450</invocationId>
+                            <token>1000000000000817658</token>
+                        </partialResults>
+                        <partialResults>
+                            <operation>com.evolveum.midpoint.model.impl.lens.projector.Projector.assignments</operation>
+                            <qualifier>INITIAL.e0p0</qualifier>
+                            <status>success</status>
+                            <importance>normal</importance>
+                            <start>2026-04-08T12:07:21.281+02:00</start>
+                            <end>2026-04-08T12:07:21.852+02:00</end>
+                            <microseconds>571172</microseconds>
+                            <invocationId>13408451</invocationId>
+                            <token>1000000000000817690</token>
+                            <partialResults>
+                                <operation>com.evolveum.midpoint.model.impl.lens.projector.focus.AssignmentProcessor.processAssignments</operation>
+                                <status>success</status>
+                                <importance>normal</importance>
+                                <start>2026-04-08T12:07:21.281+02:00</start>
+                                <end>2026-04-08T12:07:21.852+02:00</end>
+                                <microseconds>571144</microseconds>
+                                <invocationId>13408452</invocationId>
+                                <token>1000000000000817689</token>
+                                <partialResults>
+                                    <operation>com.evolveum.midpoint.model.impl.lens.projector.policy.PolicyRuleProcessor.evaluateRule</operation>
+                                    <status>success</status>
+                                    <importance>normal</importance>
+                                    <start>2026-04-08T12:07:21.745+02:00</start>
+                                    <end>2026-04-08T12:07:21.745+02:00</end>
+                                    <microseconds>323</microseconds>
+                                    <invocationId>13408787</invocationId>
+                                    <params>
+                                        <entry key="policyRule">
+                                            <paramValue>(amod)-&gt;(approve)</paramValue>
+                                        </entry>
+                                    </params>
+                                    <context>
+                                        <entry key="context">
+                                            <paramValue>role:858578ef-4b2a-4835-ab4e-cc7d3ebfb61a(QCS line of products) (+) directly in user: PAPAEVB (OID:1c4dd3ef-ee9b-4859-844d-73a582954a43) / AFTER</paramValue>
+                                        </entry>
+                                    </context>
+                                    <token>1000000000000817659</token>
+                                </partialResults>
+                                <partialResults>
+                                    <operation>com.evolveum.midpoint.model.impl.lens.projector.policy.PolicyRuleProcessor.evaluateRule</operation>
+                                    <status>success</status>
+                                    <importance>normal</importance>
+                                    <start>2026-04-08T12:07:21.746+02:00</start>
+                                    <end>2026-04-08T12:07:21.759+02:00</end>
+                                    <microseconds>13694</microseconds>
+                                    <invocationId>13408790</invocationId>
+                                    <params>
+                                        <entry key="policyRule">
+                                            <paramValue>G:First-Approve-For-All-Roles:((amod*ostate))-&gt;(approve)</paramValue>
+                                        </entry>
+                                    </params>
+                                    <context>
+                                        <entry key="context">
+                                            <paramValue>role:858578ef-4b2a-4835-ab4e-cc7d3ebfb61a(QCS line of products) (+) directly in user: PAPAEVB (OID:1c4dd3ef-ee9b-4859-844d-73a582954a43) / AFTER</paramValue>
+                                        </entry>
+                                    </context>
+                                    <token>1000000000000817660</token>
+                                </partialResults>
+                                <partialResults>
+                                    <operation>com.evolveum.midpoint.model.impl.lens.projector.policy.PolicyRuleProcessor.evaluateRule</operation>
+                                    <status>success</status>
+                                    <importance>normal</importance>
+                                    <start>2026-04-08T12:07:21.760+02:00</start>
+                                    <end>2026-04-08T12:07:21.760+02:00</end>
+                                    <microseconds>61</microseconds>
+                                    <invocationId>13408800</invocationId>
+                                    <params>
+                                        <entry key="policyRule">
+                                            <paramValue>G:First-Approve-For-All-Roles:((amod*ostate))-&gt;(approve)</paramValue>
+                                        </entry>
+                                    </params>
+                                    <context>
+                                        <entry key="context">
+                                            <paramValue>role:858578ef-4b2a-4835-ab4e-cc7d3ebfb61a(QCS line of products) (+) indirectly in user: PAPAEVB (OID:1c4dd3ef-ee9b-4859-844d-73a582954a43) / AFTER</paramValue>
+                                        </entry>
+                                    </context>
+                                    <token>1000000000000817661</token>
+                                </partialResults>
+                                <partialResults>
+                                    <operation>com.evolveum.midpoint.model.impl.lens.projector.policy.PolicyRuleProcessor.evaluateRule</operation>
+                                    <status>success</status>
+                                    <importance>normal</importance>
+                                    <start>2026-04-08T12:07:21.760+02:00</start>
+                                    <end>2026-04-08T12:07:21.760+02:00</end>
+                                    <microseconds>66</microseconds>
+                                    <invocationId>13408804</invocationId>
+                                    <params>
+                                        <entry key="policyRule">
+                                            <paramValue>G:First-Approve-For-All-Roles:((amod*ostate))-&gt;(approve)</paramValue>
+                                        </entry>
+                                    </params>
+                                    <context>
+                                        <entry key="context">
+                                            <paramValue>role:858578ef-4b2a-4835-ab4e-cc7d3ebfb61a(QCS line of products) (+) indirectly in user: PAPAEVB (OID:1c4dd3ef-ee9b-4859-844d-73a582954a43) / AFTER</paramValue>
+                                        </entry>
+                                    </context>
+                                    <token>1000000000000817662</token>
+                                </partialResults>
+                                <partialResults>
+                                    <operation>com.evolveum.midpoint.model.impl.lens.projector.policy.PolicyRuleProcessor.evaluateRule</operation>
+                                    <status>success</status>
+                                    <importance>normal</importance>
+                                    <start>2026-04-08T12:07:21.760+02:00</start>
+                                    <end>2026-04-08T12:07:21.760+02:00</end>
+                                    <microseconds>42</microseconds>
+                                    <invocationId>13408808</invocationId>
+                                    <params>
+                                        <entry key="policyRule">
+                                            <paramValue>G:First-Approve-For-All-Roles:((amod*ostate))-&gt;(approve)</paramValue>
+                                        </entry>
+                                    </params>
+                                    <context>
+                                        <entry key="context">
+                                            <paramValue>role:858578ef-4b2a-4835-ab4e-cc7d3ebfb61a(QCS line of products) (+) indirectly in user: PAPAEVB (OID:1c4dd3ef-ee9b-4859-844d-73a582954a43) / AFTER</paramValue>
+                                        </entry>
+                                    </context>
+                                    <token>1000000000000817663</token>
+                                </partialResults>
+                                <partialResults>
+                                    <operation>com.evolveum.midpoint.model.impl.lens.projector.policy.PolicyRuleProcessor.evaluateRule</operation>
+                                    <status>success</status>
+                                    <importance>normal</importance>
+                                    <start>2026-04-08T12:07:21.760+02:00</start>
+                                    <end>2026-04-08T12:07:21.760+02:00</end>
+                                    <microseconds>41</microseconds>
+                                    <invocationId>13408812</invocationId>
+                                    <params>
+                                        <entry key="policyRule">
+                                            <paramValue>G:First-Approve-For-All-Roles:((amod*ostate))-&gt;(approve)</paramValue>
+                                        </entry>
+                                    </params>
+                                    <context>
+                                        <entry key="context">
+                                            <paramValue>role:858578ef-4b2a-4835-ab4e-cc7d3ebfb61a(QCS line of products) (+) indirectly in user: PAPAEVB (OID:1c4dd3ef-ee9b-4859-844d-73a582954a43) / AFTER</paramValue>
+                                        </entry>
+                                    </context>
+                                    <token>1000000000000817664</token>
+                                </partialResults>
+                                <partialResults>
+                                    <operation>com.evolveum.midpoint.model.impl.lens.projector.policy.PolicyRuleProcessor.evaluateRule</operation>
+                                    <status>success</status>
+                                    <importance>normal</importance>
+                                    <start>2026-04-08T12:07:21.760+02:00</start>
+                                    <end>2026-04-08T12:07:21.760+02:00</end>
+                                    <microseconds>41</microseconds>
+                                    <invocationId>13408816</invocationId>
+                                    <params>
+                                        <entry key="policyRule">
+                                            <paramValue>G:First-Approve-For-All-Roles:((amod*ostate))-&gt;(approve)</paramValue>
+                                        </entry>
+                                    </params>
+                                    <context>
+                                        <entry key="context">
+                                            <paramValue>role:858578ef-4b2a-4835-ab4e-cc7d3ebfb61a(QCS line of products) (+) indirectly in user: PAPAEVB (OID:1c4dd3ef-ee9b-4859-844d-73a582954a43) / AFTER</paramValue>
+                                        </entry>
+                                    </context>
+                                    <token>1000000000000817665</token>
+                                </partialResults>
+                                <partialResults>
+                                    <operation>com.evolveum.midpoint.model.impl.lens.projector.policy.PolicyRuleProcessor.evaluateRule</operation>
+                                    <status>success</status>
+                                    <importance>normal</importance>
+                                    <start>2026-04-08T12:07:21.761+02:00</start>
+                                    <end>2026-04-08T12:07:21.761+02:00</end>
+                                    <microseconds>236</microseconds>
+                                    <invocationId>13408820</invocationId>
+                                    <params>
+                                        <entry key="policyRule">
+                                            <paramValue>(amod)-&gt;(approve)</paramValue>
+                                        </entry>
+                                    </params>
+                                    <context>
+                                        <entry key="context">
+                                            <paramValue>role:dd83bc82-428b-4764-8be8-d84185d27bda(Telematic Cooperative) (+) directly in user: PAPAEVB (OID:1c4dd3ef-ee9b-4859-844d-73a582954a43) / AFTER</paramValue>
+                                        </entry>
+                                    </context>
+                                    <token>1000000000000817666</token>
+                                </partialResults>
+                                <partialResults>
+                                    <operation>com.evolveum.midpoint.model.impl.lens.projector.policy.PolicyRuleProcessor.evaluateRule</operation>
+                                    <status>success</status>
+                                    <importance>normal</importance>
+                                    <start>2026-04-08T12:07:21.761+02:00</start>
+                                    <end>2026-04-08T12:07:21.773+02:00</end>
+                                    <microseconds>11745</microseconds>
+                                    <invocationId>13408823</invocationId>
+                                    <params>
+                                        <entry key="policyRule">
+                                            <paramValue>G:First-Approve-For-All-Roles:((amod*ostate))-&gt;(approve)</paramValue>
+                                        </entry>
+                                    </params>
+                                    <context>
+                                        <entry key="context">
+                                            <paramValue>role:dd83bc82-428b-4764-8be8-d84185d27bda(Telematic Cooperative) (+) directly in user: PAPAEVB (OID:1c4dd3ef-ee9b-4859-844d-73a582954a43) / AFTER</paramValue>
+                                        </entry>
+                                    </context>
+                                    <token>1000000000000817667</token>
+                                </partialResults>
+                                <partialResults>
+                                    <operation>com.evolveum.midpoint.model.impl.lens.projector.policy.PolicyRuleProcessor.evaluateRule</operation>
+                                    <status>success</status>
+                                    <importance>normal</importance>
+                                    <start>2026-04-08T12:07:21.774+02:00</start>
+                                    <end>2026-04-08T12:07:21.774+02:00</end>
+                                    <microseconds>76</microseconds>
+                                    <invocationId>13408833</invocationId>
+                                    <params>
+                                        <entry key="policyRule">
+                                            <paramValue>G:First-Approve-For-All-Roles:((amod*ostate))-&gt;(approve)</paramValue>
+                                        </entry>
+                                    </params>
+                                    <context>
+                                        <entry key="context">
+                                            <paramValue>org:1e77e8d5-d088-435f-8378-cd3cf1813327(CH Gov) (0) indirectly in user: PAPAEVB (OID:1c4dd3ef-ee9b-4859-844d-73a582954a43) / AFTER</paramValue>
+                                        </entry>
+                                    </context>
+                                    <token>1000000000000817668</token>
+                                </partialResults>
+                                <partialResults>
+                                    <operation>com.evolveum.midpoint.model.impl.lens.projector.policy.PolicyRuleProcessor.evaluateRule</operation>
+                                    <status>success</status>
+                                    <importance>normal</importance>
+                                    <start>2026-04-08T12:07:21.774+02:00</start>
+                                    <end>2026-04-08T12:07:21.774+02:00</end>
+                                    <microseconds>51</microseconds>
+                                    <invocationId>13408837</invocationId>
+                                    <params>
+                                        <entry key="policyRule">
+                                            <paramValue>G:First-Approve-For-All-Roles:((amod*ostate))-&gt;(approve)</paramValue>
+                                        </entry>
+                                    </params>
+                                    <context>
+                                        <entry key="context">
+                                            <paramValue>org:1e77e8d5-d088-435f-8378-cd3cf1813327(CH Gov) (0) indirectly in user: PAPAEVB (OID:1c4dd3ef-ee9b-4859-844d-73a582954a43) / AFTER</paramValue>
+                                        </entry>
+                                    </context>
+                                    <token>1000000000000817669</token>
+                                </partialResults>
+                                <partialResults>
+                                    <operation>com.evolveum.midpoint.model.impl.lens.projector.policy.PolicyRuleProcessor.evaluateRule</operation>
+                                    <status>success</status>
+                                    <importance>normal</importance>
+                                    <start>2026-04-08T12:07:21.774+02:00</start>
+                                    <end>2026-04-08T12:07:21.774+02:00</end>
+                                    <microseconds>67</microseconds>
+                                    <invocationId>13408841</invocationId>
+                                    <params>
+                                        <entry key="policyRule">
+                                            <paramValue>G:First-Approve-For-All-Roles:((amod*ostate))-&gt;(approve)</paramValue>
+                                        </entry>
+                                    </params>
+                                    <context>
+                                        <entry key="context">
+                                            <paramValue>org:1e77e8d5-d088-435f-8378-cd3cf1813327(CH Gov) (0) indirectly in user: PAPAEVB (OID:1c4dd3ef-ee9b-4859-844d-73a582954a43) / AFTER</paramValue>
+                                        </entry>
+                                    </context>
+                                    <token>1000000000000817670</token>
+                                </partialResults>
+                                <partialResults>
+                                    <operation>com.evolveum.midpoint.model.impl.lens.projector.policy.PolicyRuleProcessor.evaluateRule</operation>
+                                    <status>success</status>
+                                    <importance>normal</importance>
+                                    <start>2026-04-08T12:07:21.774+02:00</start>
+                                    <end>2026-04-08T12:07:21.774+02:00</end>
+                                    <microseconds>64</microseconds>
+                                    <invocationId>13408845</invocationId>
+                                    <params>
+                                        <entry key="policyRule">
+                                            <paramValue>G:First-Approve-For-All-Roles:((amod*ostate))-&gt;(approve)</paramValue>
+                                        </entry>
+                                    </params>
+                                    <context>
+                                        <entry key="context">
+                                            <paramValue>org:1e77e8d5-d088-435f-8378-cd3cf1813327(CH Gov) (0) indirectly in user: PAPAEVB (OID:1c4dd3ef-ee9b-4859-844d-73a582954a43) / AFTER</paramValue>
+                                        </entry>
+                                    </context>
+                                    <token>1000000000000817671</token>
+                                </partialResults>
+                                <partialResults>
+                                    <operation>com.evolveum.midpoint.model.impl.lens.projector.policy.PolicyRuleProcessor.evaluateRule</operation>
+                                    <status>success</status>
+                                    <importance>normal</importance>
+                                    <start>2026-04-08T12:07:21.774+02:00</start>
+                                    <end>2026-04-08T12:07:21.774+02:00</end>
+                                    <microseconds>51</microseconds>
+                                    <invocationId>13408849</invocationId>
+                                    <params>
+                                        <entry key="policyRule">
+                                            <paramValue>G:First-Approve-For-All-Roles:((amod*ostate))-&gt;(approve)</paramValue>
+                                        </entry>
+                                    </params>
+                                    <context>
+                                        <entry key="context">
+                                            <paramValue>org:1e77e8d5-d088-435f-8378-cd3cf1813327(CH Gov) (0) indirectly in user: PAPAEVB (OID:1c4dd3ef-ee9b-4859-844d-73a582954a43) / AFTER</paramValue>
+                                        </entry>
+                                    </context>
+                                    <token>1000000000000817672</token>
+                                </partialResults>
+                                <partialResults>
+                                    <operation>com.evolveum.midpoint.model.impl.lens.projector.policy.PolicyRuleProcessor.evaluateRule</operation>
+                                    <status>success</status>
+                                    <importance>normal</importance>
+                                    <start>2026-04-08T12:07:21.775+02:00</start>
+                                    <end>2026-04-08T12:07:21.775+02:00</end>
+                                    <microseconds>49</microseconds>
+                                    <invocationId>13408853</invocationId>
+                                    <params>
+                                        <entry key="policyRule">
+                                            <paramValue>G:First-Approve-For-All-Roles:((amod*ostate))-&gt;(approve)</paramValue>
+                                        </entry>
+                                    </params>
+                                    <context>
+                                        <entry key="context">
+                                            <paramValue>org:1e77e8d5-d088-435f-8378-cd3cf1813327(CH Gov) (0) indirectly in user: PAPAEVB (OID:1c4dd3ef-ee9b-4859-844d-73a582954a43) / AFTER</paramValue>
+                                        </entry>
+                                    </context>
+                                    <token>1000000000000817673</token>
+                                </partialResults>
+                                <partialResults>
+                                    <operation>com.evolveum.midpoint.model.impl.lens.projector.policy.PolicyRuleProcessor.evaluateRule</operation>
+                                    <status>success</status>
+                                    <importance>normal</importance>
+                                    <start>2026-04-08T12:07:21.775+02:00</start>
+                                    <end>2026-04-08T12:07:21.775+02:00</end>
+                                    <microseconds>49</microseconds>
+                                    <invocationId>13408857</invocationId>
+                                    <params>
+                                        <entry key="policyRule">
+                                            <paramValue>G:First-Approve-For-All-Roles:((amod*ostate))-&gt;(approve)</paramValue>
+                                        </entry>
+                                    </params>
+                                    <context>
+                                        <entry key="context">
+                                            <paramValue>org:1e77e8d5-d088-435f-8378-cd3cf1813327(CH Gov) (0) indirectly in user: PAPAEVB (OID:1c4dd3ef-ee9b-4859-844d-73a582954a43) / AFTER</paramValue>
+                                        </entry>
+                                    </context>
+                                    <token>1000000000000817674</token>
+                                </partialResults>
+                                <partialResults>
+                                    <operation>com.evolveum.midpoint.model.impl.lens.projector.policy.PolicyRuleProcessor.evaluateRule</operation>
+                                    <status>success</status>
+                                    <importance>normal</importance>
+                                    <start>2026-04-08T12:07:21.775+02:00</start>
+                                    <end>2026-04-08T12:07:21.775+02:00</end>
+                                    <microseconds>48</microseconds>
+                                    <invocationId>13408861</invocationId>
+                                    <params>
+                                        <entry key="policyRule">
+                                            <paramValue>G:First-Approve-For-All-Roles:((amod*ostate))-&gt;(approve)</paramValue>
+                                        </entry>
+                                    </params>
+                                    <context>
+                                        <entry key="context">
+                                            <paramValue>org:1e77e8d5-d088-435f-8378-cd3cf1813327(CH Gov) (0) indirectly in user: PAPAEVB (OID:1c4dd3ef-ee9b-4859-844d-73a582954a43) / AFTER</paramValue>
+                                        </entry>
+                                    </context>
+                                    <token>1000000000000817675</token>
+                                </partialResults>
+                                <partialResults>
+                                    <operation>com.evolveum.midpoint.model.impl.lens.projector.policy.PolicyRuleProcessor.evaluateRule</operation>
+                                    <status>success</status>
+                                    <importance>normal</importance>
+                                    <start>2026-04-08T12:07:21.775+02:00</start>
+                                    <end>2026-04-08T12:07:21.776+02:00</end>
+                                    <microseconds>550</microseconds>
+                                    <invocationId>13408865</invocationId>
+                                    <params>
+                                        <entry key="policyRule">
+                                            <paramValue>(amod)-&gt;(approve)</paramValue>
+                                        </entry>
+                                    </params>
+                                    <context>
+                                        <entry key="context">
+                                            <paramValue>role:4b269f29-7986-4c26-91a5-ce98a9902370(Parcel post compendium (PPCO)) (+) directly in user: PAPAEVB (OID:1c4dd3ef-ee9b-4859-844d-73a582954a43) / AFTER</paramValue>
+                                        </entry>
+                                    </context>
+                                    <token>1000000000000817676</token>
+                                </partialResults>
+                                <partialResults>
+                                    <operation>com.evolveum.midpoint.model.impl.lens.projector.policy.PolicyRuleProcessor.evaluateRule</operation>
+                                    <status>success</status>
+                                    <importance>normal</importance>
+                                    <start>2026-04-08T12:07:21.776+02:00</start>
+                                    <end>2026-04-08T12:07:21.788+02:00</end>
+                                    <microseconds>12415</microseconds>
+                                    <invocationId>13408868</invocationId>
+                                    <params>
+                                        <entry key="policyRule">
+                                            <paramValue>G:First-Approve-For-All-Roles:((amod*ostate))-&gt;(approve)</paramValue>
+                                        </entry>
+                                    </params>
+                                    <context>
+                                        <entry key="context">
+                                            <paramValue>role:4b269f29-7986-4c26-91a5-ce98a9902370(Parcel post compendium (PPCO)) (+) directly in user: PAPAEVB (OID:1c4dd3ef-ee9b-4859-844d-73a582954a43) / AFTER</paramValue>
+                                        </entry>
+                                    </context>
+                                    <token>1000000000000817677</token>
+                                </partialResults>
+                                <partialResults>
+                                    <operation>com.evolveum.midpoint.model.impl.lens.projector.policy.PolicyRuleProcessor.evaluateRule</operation>
+                                    <status>success</status>
+                                    <importance>normal</importance>
+                                    <start>2026-04-08T12:07:21.789+02:00</start>
+                                    <end>2026-04-08T12:07:21.789+02:00</end>
+                                    <microseconds>272</microseconds>
+                                    <invocationId>13408878</invocationId>
+                                    <params>
+                                        <entry key="policyRule">
+                                            <paramValue>(amod)-&gt;(approve)</paramValue>
+                                        </entry>
+                                    </params>
+                                    <context>
+                                        <entry key="context">
+                                            <paramValue>role:3bba9cc6-71a0-4be7-9409-a8a4a1e72e8e(PostNet line of products) (+) directly in user: PAPAEVB (OID:1c4dd3ef-ee9b-4859-844d-73a582954a43) / AFTER</paramValue>
+                                        </entry>
+                                    </context>
+                                    <token>1000000000000817678</token>
+                                </partialResults>
+                                <partialResults>
+                                    <operation>com.evolveum.midpoint.model.impl.lens.projector.policy.PolicyRuleProcessor.evaluateRule</operation>
+                                    <status>success</status>
+                                    <importance>normal</importance>
+                                    <start>2026-04-08T12:07:21.789+02:00</start>
+                                    <end>2026-04-08T12:07:21.800+02:00</end>
+                                    <microseconds>11004</microseconds>
+                                    <invocationId>13408881</invocationId>
+                                    <params>
+                                        <entry key="policyRule">
+                                            <paramValue>G:First-Approve-For-All-Roles:((amod*ostate))-&gt;(approve)</paramValue>
+                                        </entry>
+                                    </params>
+                                    <context>
+                                        <entry key="context">
+                                            <paramValue>role:3bba9cc6-71a0-4be7-9409-a8a4a1e72e8e(PostNet line of products) (+) directly in user: PAPAEVB (OID:1c4dd3ef-ee9b-4859-844d-73a582954a43) / AFTER</paramValue>
+                                        </entry>
+                                    </context>
+                                    <token>1000000000000817679</token>
+                                </partialResults>
+                                <partialResults>
+                                    <operation>com.evolveum.midpoint.model.impl.lens.projector.policy.PolicyRuleProcessor.evaluateRule</operation>
+                                    <status>success</status>
+                                    <importance>normal</importance>
+                                    <start>2026-04-08T12:07:21.801+02:00</start>
+                                    <end>2026-04-08T12:07:21.801+02:00</end>
+                                    <microseconds>405</microseconds>
+                                    <invocationId>13408891</invocationId>
+                                    <params>
+                                        <entry key="policyRule">
+                                            <paramValue>(amod)-&gt;(approve)</paramValue>
+                                        </entry>
+                                    </params>
+                                    <context>
+                                        <entry key="context">
+                                            <paramValue>role:eef8b27f-5b1c-4e70-96ae-c00addb7a3d2(IFSlop) (+) directly in user: PAPAEVB (OID:1c4dd3ef-ee9b-4859-844d-73a582954a43) / AFTER</paramValue>
+                                        </entry>
+                                    </context>
+                                    <token>1000000000000817680</token>
+                                </partialResults>
+                                <partialResults>
+                                    <operation>com.evolveum.midpoint.model.impl.lens.projector.policy.PolicyRuleProcessor.evaluateRule</operation>
+                                    <status>success</status>
+                                    <importance>normal</importance>
+                                    <start>2026-04-08T12:07:21.801+02:00</start>
+                                    <end>2026-04-08T12:07:21.813+02:00</end>
+                                    <microseconds>11978</microseconds>
+                                    <invocationId>13408894</invocationId>
+                                    <params>
+                                        <entry key="policyRule">
+                                            <paramValue>G:First-Approve-For-All-Roles:((amod*ostate))-&gt;(approve)</paramValue>
+                                        </entry>
+                                    </params>
+                                    <context>
+                                        <entry key="context">
+                                            <paramValue>role:eef8b27f-5b1c-4e70-96ae-c00addb7a3d2(IFSlop) (+) directly in user: PAPAEVB (OID:1c4dd3ef-ee9b-4859-844d-73a582954a43) / AFTER</paramValue>
+                                        </entry>
+                                    </context>
+                                    <token>1000000000000817681</token>
+                                </partialResults>
+                                <partialResults>
+                                    <operation>com.evolveum.midpoint.model.impl.lens.projector.policy.PolicyRuleProcessor.evaluateRule</operation>
+                                    <status>success</status>
+                                    <importance>normal</importance>
+                                    <start>2026-04-08T12:07:21.814+02:00</start>
+                                    <end>2026-04-08T12:07:21.814+02:00</end>
+                                    <microseconds>150</microseconds>
+                                    <invocationId>13408904</invocationId>
+                                    <params>
+                                        <entry key="policyRule">
+                                            <paramValue>G:First-Approve-For-All-Roles:((amod*ostate))-&gt;(approve)</paramValue>
+                                        </entry>
+                                    </params>
+                                    <context>
+                                        <entry key="context">
+                                            <paramValue>role:00000000-0000-0000-0000-000000000008(End user) (0) directly in user: PAPAEVB (OID:1c4dd3ef-ee9b-4859-844d-73a582954a43) / AFTER</paramValue>
+                                        </entry>
+                                    </context>
+                                    <token>1000000000000817682</token>
+                                </partialResults>
+                                <partialResults>
+                                    <operation>com.evolveum.midpoint.model.impl.lens.projector.policy.PolicyRuleProcessor.evaluateRule</operation>
+                                    <status>success</status>
+                                    <importance>normal</importance>
+                                    <start>2026-04-08T12:07:21.815+02:00</start>
+                                    <end>2026-04-08T12:07:21.815+02:00</end>
+                                    <microseconds>336</microseconds>
+                                    <invocationId>13408908</invocationId>
+                                    <params>
+                                        <entry key="policyRule">
+                                            <paramValue>(amod)-&gt;(approve)</paramValue>
+                                        </entry>
+                                    </params>
+                                    <context>
+                                        <entry key="context">
+                                            <paramValue>role:20120050-1ce8-44d3-9af8-9aab68a7e866(IPSlop) (+) directly in user: PAPAEVB (OID:1c4dd3ef-ee9b-4859-844d-73a582954a43) / AFTER</paramValue>
+                                        </entry>
+                                    </context>
+                                    <token>1000000000000817683</token>
+                                </partialResults>
+                                <partialResults>
+                                    <operation>com.evolveum.midpoint.model.impl.lens.projector.policy.PolicyRuleProcessor.evaluateRule</operation>
+                                    <status>success</status>
+                                    <importance>normal</importance>
+                                    <start>2026-04-08T12:07:21.815+02:00</start>
+                                    <end>2026-04-08T12:07:21.826+02:00</end>
+                                    <microseconds>11064</microseconds>
+                                    <invocationId>13408911</invocationId>
+                                    <params>
+                                        <entry key="policyRule">
+                                            <paramValue>G:First-Approve-For-All-Roles:((amod*ostate))-&gt;(approve)</paramValue>
+                                        </entry>
+                                    </params>
+                                    <context>
+                                        <entry key="context">
+                                            <paramValue>role:20120050-1ce8-44d3-9af8-9aab68a7e866(IPSlop) (+) directly in user: PAPAEVB (OID:1c4dd3ef-ee9b-4859-844d-73a582954a43) / AFTER</paramValue>
+                                        </entry>
+                                    </context>
+                                    <token>1000000000000817684</token>
+                                </partialResults>
+                                <partialResults>
+                                    <operation>com.evolveum.midpoint.model.impl.lens.projector.policy.PolicyRuleProcessor.evaluateRule</operation>
+                                    <status>success</status>
+                                    <importance>normal</importance>
+                                    <start>2026-04-08T12:07:21.827+02:00</start>
+                                    <end>2026-04-08T12:07:21.827+02:00</end>
+                                    <microseconds>366</microseconds>
+                                    <invocationId>13408921</invocationId>
+                                    <params>
+                                        <entry key="policyRule">
+                                            <paramValue>(amod)-&gt;(approve)</paramValue>
+                                        </entry>
+                                    </params>
+                                    <context>
+                                        <entry key="context">
+                                            <paramValue>role:2830e24e-a279-40a1-92f7-740381a66a7b(CDSlop) (+) directly in user: PAPAEVB (OID:1c4dd3ef-ee9b-4859-844d-73a582954a43) / AFTER</paramValue>
+                                        </entry>
+                                    </context>
+                                    <token>1000000000000817685</token>
+                                </partialResults>
+                                <partialResults>
+                                    <operation>com.evolveum.midpoint.model.impl.lens.projector.policy.PolicyRuleProcessor.evaluateRule</operation>
+                                    <status>success</status>
+                                    <importance>normal</importance>
+                                    <start>2026-04-08T12:07:21.827+02:00</start>
+                                    <end>2026-04-08T12:07:21.838+02:00</end>
+                                    <microseconds>11254</microseconds>
+                                    <invocationId>13408924</invocationId>
+                                    <params>
+                                        <entry key="policyRule">
+                                            <paramValue>G:First-Approve-For-All-Roles:((amod*ostate))-&gt;(approve)</paramValue>
+                                        </entry>
+                                    </params>
+                                    <context>
+                                        <entry key="context">
+                                            <paramValue>role:2830e24e-a279-40a1-92f7-740381a66a7b(CDSlop) (+) directly in user: PAPAEVB (OID:1c4dd3ef-ee9b-4859-844d-73a582954a43) / AFTER</paramValue>
+                                        </entry>
+                                    </context>
+                                    <token>1000000000000817686</token>
+                                </partialResults>
+                                <partialResults>
+                                    <operation>com.evolveum.midpoint.model.impl.lens.projector.policy.PolicyRuleProcessor.evaluateRule</operation>
+                                    <status>success</status>
+                                    <importance>normal</importance>
+                                    <start>2026-04-08T12:07:21.839+02:00</start>
+                                    <end>2026-04-08T12:07:21.839+02:00</end>
+                                    <microseconds>430</microseconds>
+                                    <invocationId>13408934</invocationId>
+                                    <params>
+                                        <entry key="policyRule">
+                                            <paramValue>(amod)-&gt;(approve)</paramValue>
+                                        </entry>
+                                    </params>
+                                    <context>
+                                        <entry key="context">
+                                            <paramValue>role:45e9929b-99f7-4513-bf33-ee917b2d8b0e(Letter post compendium (LPCO)) (+) directly in user: PAPAEVB (OID:1c4dd3ef-ee9b-4859-844d-73a582954a43) / AFTER</paramValue>
+                                        </entry>
+                                    </context>
+                                    <token>1000000000000817687</token>
+                                </partialResults>
+                                <partialResults>
+                                    <operation>com.evolveum.midpoint.model.impl.lens.projector.policy.PolicyRuleProcessor.evaluateRule</operation>
+                                    <status>success</status>
+                                    <importance>normal</importance>
+                                    <start>2026-04-08T12:07:21.840+02:00</start>
+                                    <end>2026-04-08T12:07:21.851+02:00</end>
+                                    <microseconds>11050</microseconds>
+                                    <invocationId>13408937</invocationId>
+                                    <params>
+                                        <entry key="policyRule">
+                                            <paramValue>G:First-Approve-For-All-Roles:((amod*ostate))-&gt;(approve)</paramValue>
+                                        </entry>
+                                    </params>
+                                    <context>
+                                        <entry key="context">
+                                            <paramValue>role:45e9929b-99f7-4513-bf33-ee917b2d8b0e(Letter post compendium (LPCO)) (+) directly in user: PAPAEVB (OID:1c4dd3ef-ee9b-4859-844d-73a582954a43) / AFTER</paramValue>
+                                        </entry>
+                                    </context>
+                                    <token>1000000000000817688</token>
+                                </partialResults>
+                            </partialResults>
+                        </partialResults>
+                        <partialResults>
+                            <operation>com.evolveum.midpoint.model.impl.lens.projector.Projector.assignmentsOrg</operation>
+                            <qualifier>INITIAL.e0p0</qualifier>
+                            <status>success</status>
+                            <importance>normal</importance>
+                            <start>2026-04-08T12:07:21.852+02:00</start>
+                            <end>2026-04-08T12:07:21.852+02:00</end>
+                            <microseconds>332</microseconds>
+                            <invocationId>13408948</invocationId>
+                            <token>1000000000000817691</token>
+                        </partialResults>
+                        <partialResults>
+                            <operation>com.evolveum.midpoint.model.impl.lens.projector.Projector.assignmentsMembershipAndDelegate</operation>
+                            <qualifier>INITIAL.e0p0</qualifier>
+                            <status>success</status>
+                            <importance>normal</importance>
+                            <start>2026-04-08T12:07:21.852+02:00</start>
+                            <end>2026-04-08T12:07:21.852+02:00</end>
+                            <microseconds>115</microseconds>
+                            <invocationId>13408949</invocationId>
+                            <token>1000000000000817692</token>
+                        </partialResults>
+                        <partialResults>
+                            <operation>com.evolveum.midpoint.model.impl.lens.projector.Projector.assignmentsConflicts</operation>
+                            <qualifier>INITIAL.e0p0</qualifier>
+                            <status>success</status>
+                            <importance>normal</importance>
+                            <start>2026-04-08T12:07:21.853+02:00</start>
+                            <end>2026-04-08T12:07:21.853+02:00</end>
+                            <microseconds>53</microseconds>
+                            <invocationId>13408950</invocationId>
+                            <token>1000000000000817693</token>
+                        </partialResults>
+                        <partialResults>
+                            <operation>com.evolveum.midpoint.model.impl.lens.projector.Projector.focusLifecycle</operation>
+                            <qualifier>INITIAL.e0p0</qualifier>
+                            <status>success</status>
+                            <importance>normal</importance>
+                            <start>2026-04-08T12:07:21.853+02:00</start>
+                            <end>2026-04-08T12:07:21.853+02:00</end>
+                            <microseconds>91</microseconds>
+                            <invocationId>13408951</invocationId>
+                            <token>1000000000000817694</token>
+                        </partialResults>
+                        <partialResults>
+                            <operation>com.evolveum.midpoint.model.impl.lens.projector.Projector.objectTemplateAfterAssignments</operation>
+                            <qualifier>INITIAL.e0p0</qualifier>
+                            <status>success</status>
+                            <importance>normal</importance>
+                            <start>2026-04-08T12:07:21.853+02:00</start>
+                            <end>2026-04-08T12:07:21.854+02:00</end>
+                            <microseconds>1047</microseconds>
+                            <invocationId>13408952</invocationId>
+                            <token>1000000000000817696</token>
+                            <partialResults>
+                                <operation>com.evolveum.midpoint.repo.cache.RepositoryCache.searchObjectsIterative</operation>
+                                <qualifier>AbstractRoleType</qualifier>
+                                <status>success</status>
+                                <importance>normal</importance>
+                                <start>2026-04-08T12:07:21.854+02:00</start>
+                                <end>2026-04-08T12:07:21.854+02:00</end>
+                                <microseconds>89</microseconds>
+                                <invocationId>13408953</invocationId>
+                                <params>
+                                    <entry key="query">
+                                        <paramValue>Q{EQUAL: autoassign/enabled,PPV(Boolean:true),null paging</paramValue>
+                                    </entry>
+                                    <entry key="options">
+                                        <paramValue>ObjectOperationOptions(/:readOnly)</paramValue>
+                                    </entry>
+                                    <entry key="type">
+                                        <paramValue>http://midpoint.evolveum.com/xml/ns/public/common/common-3#AbstractRoleType</paramValue>
+                                    </entry>
+                                </params>
+                                <returns>
+                                    <entry key="objectsFound">
+                                        <paramValue>0</paramValue>
+                                    </entry>
+                                    <entry key="interrupted">
+                                        <paramValue>false</paramValue>
+                                    </entry>
+                                </returns>
+                                <token>1000000000000817695</token>
+                            </partialResults>
+                        </partialResults>
+                        <partialResults>
+                            <operation>com.evolveum.midpoint.model.impl.lens.projector.Projector.focusActivation</operation>
+                            <qualifier>INITIAL.e0p0</qualifier>
+                            <status>success</status>
+                            <importance>normal</importance>
+                            <start>2026-04-08T12:07:21.856+02:00</start>
+                            <end>2026-04-08T12:07:21.856+02:00</end>
+                            <microseconds>348</microseconds>
+                            <invocationId>13408955</invocationId>
+                            <token>1000000000000817697</token>
+                        </partialResults>
+                        <partialResults>
+                            <operation>com.evolveum.midpoint.model.impl.lens.projector.Projector.focusCredentials</operation>
+                            <qualifier>INITIAL.e0p0</qualifier>
+                            <status>success</status>
+                            <importance>normal</importance>
+                            <start>2026-04-08T12:07:21.856+02:00</start>
+                            <end>2026-04-08T12:07:21.857+02:00</end>
+                            <microseconds>333</microseconds>
+                            <invocationId>13408956</invocationId>
+                            <token>1000000000000817698</token>
+                        </partialResults>
+                        <partialResults>
+                            <operation>com.evolveum.midpoint.model.impl.lens.projector.Projector.focusPolicyRules</operation>
+                            <qualifier>INITIAL.e0p0</qualifier>
+                            <status>success</status>
+                            <importance>normal</importance>
+                            <start>2026-04-08T12:07:21.857+02:00</start>
+                            <end>2026-04-08T12:07:21.857+02:00</end>
+                            <microseconds>347</microseconds>
+                            <invocationId>13408957</invocationId>
+                            <token>1000000000000817699</token>
+                        </partialResults>
+                    </partialResults>
+                </partialResults>
+                <partialResults>
+                    <operation>com.evolveum.midpoint.wf.impl.hook.WfHook.invoke</operation>
+                    <status>fatal_error</status>
+                    <importance>normal</importance>
+                    <start>2026-04-08T12:07:21.895+02:00</start>
+                    <end>2026-04-08T12:07:22.196+02:00</end>
+                    <microseconds>301796</microseconds>
+                    <invocationId>13408973</invocationId>
+                    <params>
+                        <entry key="task">
+                            <paramValue>Task(id:1775642841029-0-1, name:null, oid:null)</paramValue>
+                        </entry>
+                    </params>
+                    <context>
+                        <entry key="model state">
+                            <paramValue>PRIMARY</paramValue>
+                        </entry>
+                    </context>
+                    <token>1000000000000817707</token>
+                    <message>Workflow process(es) could not be started: com.evolveum.midpoint.util.exception.SystemException: Invalid character with regards to XML (code 57101) in 'SHOUT: 2026-04-08 12:46:44.595406: MCPLogger: --- ENOK MCP v2026 ACTIVE ---  INFO: 2026-04-08 12:46:44.595406: MCPLogger: Listening on port 8080  2026-04-08T12:46:51.176630  0:00:00.000331 GET     [200...'</message>
+                    <partialResults>
+                        <operation>com.evolveum.midpoint.wf.impl.processors.primary.PrimaryChangeProcessor.previewOrProcessModelInvocation</operation>
+                        <status>fatal_error</status>
+                        <importance>normal</importance>
+                        <start>2026-04-08T12:07:21.895+02:00</start>
+                        <end>2026-04-08T12:07:22.196+02:00</end>
+                        <microseconds>301748</microseconds>
+                        <invocationId>13408974</invocationId>
+                        <params>
+                            <entry key="previewOnly">
+                                <paramValue>false</paramValue>
+                            </entry>
+                        </params>
+                        <token>1000000000000817706</token>
+                        <message>Workflow process(es) could not be started: com.evolveum.midpoint.util.exception.SystemException: Invalid character with regards to XML (code 57101) in 'SHOUT: 2026-04-08 12:46:44.595406: MCPLogger: --- ENOK MCP v2026 ACTIVE ---  INFO: 2026-04-08 12:46:44.595406: MCPLogger: Listening on port 8080  2026-04-08T12:46:51.176630  0:00:00.000331 GET     [200...'</message>
+                        <partialResults>
+                            <operation>com.evolveum.midpoint.wf.impl.processors.primary.PrimaryChangeProcessor.executeStartInstructions</operation>
+                            <status>fatal_error</status>
+                            <importance>normal</importance>
+                            <start>2026-04-08T12:07:22.184+02:00</start>
+                            <end>2026-04-08T12:07:22.196+02:00</end>
+                            <microseconds>12064</microseconds>
+                            <invocationId>13408998</invocationId>
+                            <token>1000000000000817705</token>
+                            <message>Workflow process(es) could not be started: com.evolveum.midpoint.util.exception.SystemException: Invalid character with regards to XML (code 57101) in 'SHOUT: 2026-04-08 12:46:44.595406: MCPLogger: --- ENOK MCP v2026 ACTIVE ---  INFO: 2026-04-08 12:46:44.595406: MCPLogger: Listening on port 8080  2026-04-08T12:46:51.176630  0:00:00.000331 GET     [200...'</message>
+                            <details>com.evolveum.midpoint.util.exception.SystemException: Invalid character with regards to XML (code 57101) in 'SHOUT: 2026-04-08 12:46:44.595406: MCPLogger: --- ENOK MCP v2026 ACTIVE ---  INFO: 2026-04-08 12:46:44.595406: MCPLogger: Listening on port 8080  2026-04-08T12:46:51.176630  0:00:00.000331 GET     [200...'
+com.evolveum.midpoint.repo.sql.helpers.BaseHelper.handleGeneralRuntimeException(BaseHelper.java:164)
+com.evolveum.midpoint.repo.sql.helpers.BaseHelper.handleGeneralException(BaseHelper.java:144)
+com.evolveum.midpoint.repo.sql.helpers.ObjectUpdater.addObjectAttempt(ObjectUpdater.java:164)
+com.evolveum.midpoint.repo.sql.SqlRepositoryServiceImpl.addObject(SqlRepositoryServiceImpl.java:459)
+com.evolveum.midpoint.repo.cache.RepositoryCache.addObject(RepositoryCache.java:460)
+com.evolveum.midpoint.wf.impl.processors.ModelHelper.addCase(ModelHelper.java:171)
+com.evolveum.midpoint.wf.impl.processors.ModelHelper.addRoot(ModelHelper.java:125)
+com.evolveum.midpoint.wf.impl.processors.primary.PrimaryChangeProcessor.addRoot(PrimaryChangeProcessor.java:353)
+com.evolveum.midpoint.wf.impl.processors.primary.PrimaryChangeProcessor.executeStartInstructions(PrimaryChangeProcessor.java:279)
+com.evolveum.midpoint.wf.impl.processors.primary.PrimaryChangeProcessor.previewOrProcessModelInvocation(PrimaryChangeProcessor.java:168)
+com.evolveum.midpoint.wf.impl.processors.primary.PrimaryChangeProcessor.processModelInvocation(PrimaryChangeProcessor.java:122)
+com.evolveum.midpoint.wf.impl.hook.WfHook.processModelInvocation(WfHook.java:173)
+com.evolveum.midpoint.wf.impl.hook.WfHook.invoke(WfHook.java:122)
+com.evolveum.midpoint.model.impl.lens.Clockwork.invokeHooks(Clockwork.java:726)
+com.evolveum.midpoint.model.impl.lens.Clockwork.click(Clockwork.java:622)
+com.evolveum.midpoint.model.impl.lens.Clockwork.run(Clockwork.java:200)
+com.evolveum.midpoint.model.impl.controller.ModelController.executeChanges(ModelController.java:556)
+com.evolveum.midpoint.model.impl.controller.ModelController.executeChanges(ModelController.java:343)
+jdk.internal.reflect.GeneratedMethodAccessor1154.invoke(Unknown Source)
+java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+java.base/java.lang.reflect.Method.invoke(Method.java:566)
+org.apache.wicket.proxy.LazyInitProxyFactory$JdkHandler.invoke(LazyInitProxyFactory.java:521)
+com.sun.proxy.$Proxy217.executeChanges(Unknown Source)
+com.evolveum.midpoint.web.page.self.PageAssignmentsList.onSingleUserRequestPerformed(PageAssignmentsList.java:283)
+com.evolveum.midpoint.web.page.self.PageAssignmentsList.access$400(PageAssignmentsList.java:72)
+com.evolveum.midpoint.web.page.self.PageAssignmentsList$6.onClick(PageAssignmentsList.java:222)
+org.apache.wicket.ajax.markup.html.AjaxLink$1.onEvent(AjaxLink.java:85)
+org.apache.wicket.ajax.AjaxEventBehavior.respond(AjaxEventBehavior.java:127)
+org.apache.wicket.ajax.AbstractDefaultAjaxBehavior.onRequest(AbstractDefaultAjaxBehavior.java:598)
+org.apache.wicket.core.request.handler.ListenerRequestHandler.internalInvoke(ListenerRequestHandler.java:306)
+org.apache.wicket.core.request.handler.ListenerRequestHandler.invoke(ListenerRequestHandler.java:280)
+org.apache.wicket.core.request.handler.ListenerRequestHandler.invokeListener(ListenerRequestHandler.java:222)
+org.apache.wicket.core.request.handler.ListenerRequestHandler.respond(ListenerRequestHandler.java:208)
+org.apache.wicket.request.cycle.RequestCycle$HandlerExecutor.respond(RequestCycle.java:914)
+org.apache.wicket.request.RequestHandlerExecutor.execute(RequestHandlerExecutor.java:65)
+org.apache.wicket.request.cycle.RequestCycle.execute(RequestCycle.java:282)
+org.apache.wicket.request.cycle.RequestCycle.processRequest(RequestCycle.java:253)
+org.apache.wicket.request.cycle.RequestCycle.processRequestAndDetach(RequestCycle.java:221)
+org.apache.wicket.protocol.http.WicketFilter.processRequestCycle(WicketFilter.java:275)
+org.apache.wicket.protocol.http.WicketFilter.processRequest(WicketFilter.java:206)
+org.apache.wicket.protocol.http.WicketFilter.doFilter(WicketFilter.java:299)
+org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+com.evolveum.midpoint.web.util.MidPointProfilingServletFilter.doFilter(MidPointProfilingServletFilter.java:85)
+org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:320)
+org.springframework.security.web.access.intercept.FilterSecurityInterceptor.invoke(FilterSecurityInterceptor.java:127)
+org.springframework.security.web.access.intercept.FilterSecurityInterceptor.doFilter(FilterSecurityInterceptor.java:91)
+org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:334)
+org.springframework.security.web.access.ExceptionTranslationFilter.doFilter(ExceptionTranslationFilter.java:119)
+org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:334)
+org.springframework.security.web.session.SessionManagementFilter.doFilter(SessionManagementFilter.java:137)
+org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:334)
+org.springframework.security.web.authentication.AnonymousAuthenticationFilter.doFilter(AnonymousAuthenticationFilter.java:111)
+org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:334)
+org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter.doFilter(SecurityContextHolderAwareRequestFilter.java:170)
+org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:334)
+org.springframework.security.web.savedrequest.RequestCacheAwareFilter.doFilter(RequestCacheAwareFilter.java:63)
+org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:334)
+org.springframework.security.web.session.ConcurrentSessionFilter.doFilter(ConcurrentSessionFilter.java:155)
+org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:334)
+org.springframework.security.web.authentication.AbstractAuthenticationProcessingFilter.doFilter(AbstractAuthenticationProcessingFilter.java:200)
+org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:334)
+org.springframework.security.web.authentication.logout.LogoutFilter.doFilter(LogoutFilter.java:116)
+org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:334)
+org.springframework.security.web.csrf.CsrfFilter.doFilterInternal(CsrfFilter.java:100)
+org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:118)
+org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:334)
+org.springframework.security.web.header.HeaderWriterFilter.doFilterInternal(HeaderWriterFilter.java:74)
+org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:118)
+org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:334)
+org.springframework.security.web.context.SecurityContextPersistenceFilter.doFilter(SecurityContextPersistenceFilter.java:105)
+org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:334)
+org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter.doFilterInternal(WebAsyncManagerIntegrationFilter.java:56)
+org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:118)
+org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:334)
+org.springframework.security.web.FilterChainProxy.doFilterInternal(FilterChainProxy.java:215)
+org.springframework.security.web.FilterChainProxy.doFilter(FilterChainProxy.java:178)
+org.springframework.web.filter.DelegatingFilterProxy.invokeDelegate(DelegatingFilterProxy.java:357)
+org.springframework.web.filter.DelegatingFilterProxy.doFilter(DelegatingFilterProxy.java:270)
+org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:99)
+org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:118)
+org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:92)
+org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:118)
+org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+org.springframework.web.filter.HiddenHttpMethodFilter.doFilterInternal(HiddenHttpMethodFilter.java:93)
+org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:118)
+org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+org.springframework.boot.actuate.metrics.web.servlet.WebMvcMetricsFilter.filterAndRecordMetrics(WebMvcMetricsFilter.java:114)
+org.springframework.boot.actuate.metrics.web.servlet.WebMvcMetricsFilter.doFilterInternal(WebMvcMetricsFilter.java:104)
+org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:118)
+org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:200)
+org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:118)
+org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202)
+org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:526)
+org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139)
+org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+com.evolveum.midpoint.web.boot.TomcatRootValve.invoke(TomcatRootValve.java:60)
+org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:408)
+org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:860)
+org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1587)
+org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+java.base/java.lang.Thread.run(Thread.java:834)
+</details>
+                            <partialResults>
+                                <operation>com.evolveum.midpoint.repo.cache.RepositoryCache.getObject</operation>
+                                <qualifier>UserType</qualifier>
+                                <status>success</status>
+                                <importance>normal</importance>
+                                <start>2026-04-08T12:07:22.187+02:00</start>
+                                <end>2026-04-08T12:07:22.187+02:00</end>
+                                <microseconds>186</microseconds>
+                                <invocationId>13408999</invocationId>
+                                <params>
+                                    <entry key="options"/>
+                                    <entry key="oid">
+                                        <paramValue>1c4dd3ef-ee9b-4859-844d-73a582954a43</paramValue>
+                                    </entry>
+                                    <entry key="type">
+                                        <paramValue>http://midpoint.evolveum.com/xml/ns/public/common/common-3#UserType</paramValue>
+                                    </entry>
+                                </params>
+                                <context>
+                                    <entry key="objectName">
+                                        <paramValue>PAPAEVB</paramValue>
+                                    </entry>
+                                </context>
+                                <token>1000000000000817702</token>
+                            </partialResults>
+                            <partialResults>
+                                <operation>com.evolveum.midpoint.repo.cache.RepositoryCache.addObject</operation>
+                                <qualifier>CaseType</qualifier>
+                                <status>fatal_error</status>
+                                <importance>normal</importance>
+                                <start>2026-04-08T12:07:22.187+02:00</start>
+                                <end>2026-04-08T12:07:22.194+02:00</end>
+                                <microseconds>7504</microseconds>
+                                <invocationId>13409000</invocationId>
+                                <params>
+                                    <entry key="options"/>
+                                    <entry key="type">
+                                        <paramValue>http://midpoint.evolveum.com/xml/ns/public/common/common-3#CaseType</paramValue>
+                                    </entry>
+                                </params>
+                                <token>1000000000000817704</token>
+                                <message>Invalid character with regards to XML (code 57101) in 'SHOUT: 2026-04-08 12:46:44.595406: MCPLogger: --- ENOK MCP v2026 ACTIVE ---  INFO: 2026-04-08 12:46:44.595406: MCPLogger: Listening on port 8080  2026-04-08T12:46:51.176630  0:00:00.000331 GET     [200...'</message>
+                                <details>com.evolveum.midpoint.util.exception.SystemException: Invalid character with regards to XML (code 57101) in 'SHOUT: 2026-04-08 12:46:44.595406: MCPLogger: --- ENOK MCP v2026 ACTIVE ---  INFO: 2026-04-08 12:46:44.595406: MCPLogger: Listening on port 8080  2026-04-08T12:46:51.176630  0:00:00.000331 GET     [200...'
+com.evolveum.midpoint.repo.sql.helpers.BaseHelper.handleGeneralRuntimeException(BaseHelper.java:164)
+com.evolveum.midpoint.repo.sql.helpers.BaseHelper.handleGeneralException(BaseHelper.java:144)
+com.evolveum.midpoint.repo.sql.helpers.ObjectUpdater.addObjectAttempt(ObjectUpdater.java:164)
+com.evolveum.midpoint.repo.sql.SqlRepositoryServiceImpl.addObject(SqlRepositoryServiceImpl.java:459)
+com.evolveum.midpoint.repo.cache.RepositoryCache.addObject(RepositoryCache.java:460)
+com.evolveum.midpoint.wf.impl.processors.ModelHelper.addCase(ModelHelper.java:171)
+com.evolveum.midpoint.wf.impl.processors.ModelHelper.addRoot(ModelHelper.java:125)
+com.evolveum.midpoint.wf.impl.processors.primary.PrimaryChangeProcessor.addRoot(PrimaryChangeProcessor.java:353)
+com.evolveum.midpoint.wf.impl.processors.primary.PrimaryChangeProcessor.executeStartInstructions(PrimaryChangeProcessor.java:279)
+com.evolveum.midpoint.wf.impl.processors.primary.PrimaryChangeProcessor.previewOrProcessModelInvocation(PrimaryChangeProcessor.java:168)
+com.evolveum.midpoint.wf.impl.processors.primary.PrimaryChangeProcessor.processModelInvocation(PrimaryChangeProcessor.java:122)
+com.evolveum.midpoint.wf.impl.hook.WfHook.processModelInvocation(WfHook.java:173)
+com.evolveum.midpoint.wf.impl.hook.WfHook.invoke(WfHook.java:122)
+com.evolveum.midpoint.model.impl.lens.Clockwork.invokeHooks(Clockwork.java:726)
+com.evolveum.midpoint.model.impl.lens.Clockwork.click(Clockwork.java:622)
+com.evolveum.midpoint.model.impl.lens.Clockwork.run(Clockwork.java:200)
+com.evolveum.midpoint.model.impl.controller.ModelController.executeChanges(ModelController.java:556)
+com.evolveum.midpoint.model.impl.controller.ModelController.executeChanges(ModelController.java:343)
+jdk.internal.reflect.GeneratedMethodAccessor1154.invoke(Unknown Source)
+java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+java.base/java.lang.reflect.Method.invoke(Method.java:566)
+org.apache.wicket.proxy.LazyInitProxyFactory$JdkHandler.invoke(LazyInitProxyFactory.java:521)
+com.sun.proxy.$Proxy217.executeChanges(Unknown Source)
+com.evolveum.midpoint.web.page.self.PageAssignmentsList.onSingleUserRequestPerformed(PageAssignmentsList.java:283)
+com.evolveum.midpoint.web.page.self.PageAssignmentsList.access$400(PageAssignmentsList.java:72)
+com.evolveum.midpoint.web.page.self.PageAssignmentsList$6.onClick(PageAssignmentsList.java:222)
+org.apache.wicket.ajax.markup.html.AjaxLink$1.onEvent(AjaxLink.java:85)
+org.apache.wicket.ajax.AjaxEventBehavior.respond(AjaxEventBehavior.java:127)
+org.apache.wicket.ajax.AbstractDefaultAjaxBehavior.onRequest(AbstractDefaultAjaxBehavior.java:598)
+org.apache.wicket.core.request.handler.ListenerRequestHandler.internalInvoke(ListenerRequestHandler.java:306)
+org.apache.wicket.core.request.handler.ListenerRequestHandler.invoke(ListenerRequestHandler.java:280)
+org.apache.wicket.core.request.handler.ListenerRequestHandler.invokeListener(ListenerRequestHandler.java:222)
+org.apache.wicket.core.request.handler.ListenerRequestHandler.respond(ListenerRequestHandler.java:208)
+org.apache.wicket.request.cycle.RequestCycle$HandlerExecutor.respond(RequestCycle.java:914)
+org.apache.wicket.request.RequestHandlerExecutor.execute(RequestHandlerExecutor.java:65)
+org.apache.wicket.request.cycle.RequestCycle.execute(RequestCycle.java:282)
+org.apache.wicket.request.cycle.RequestCycle.processRequest(RequestCycle.java:253)
+org.apache.wicket.request.cycle.RequestCycle.processRequestAndDetach(RequestCycle.java:221)
+org.apache.wicket.protocol.http.WicketFilter.processRequestCycle(WicketFilter.java:275)
+org.apache.wicket.protocol.http.WicketFilter.processRequest(WicketFilter.java:206)
+org.apache.wicket.protocol.http.WicketFilter.doFilter(WicketFilter.java:299)
+org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+com.evolveum.midpoint.web.util.MidPointProfilingServletFilter.doFilter(MidPointProfilingServletFilter.java:85)
+org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:320)
+org.springframework.security.web.access.intercept.FilterSecurityInterceptor.invoke(FilterSecurityInterceptor.java:127)
+org.springframework.security.web.access.intercept.FilterSecurityInterceptor.doFilter(FilterSecurityInterceptor.java:91)
+org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:334)
+org.springframework.security.web.access.ExceptionTranslationFilter.doFilter(ExceptionTranslationFilter.java:119)
+org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:334)
+org.springframework.security.web.session.SessionManagementFilter.doFilter(SessionManagementFilter.java:137)
+org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:334)
+org.springframework.security.web.authentication.AnonymousAuthenticationFilter.doFilter(AnonymousAuthenticationFilter.java:111)
+org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:334)
+org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter.doFilter(SecurityContextHolderAwareRequestFilter.java:170)
+org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:334)
+org.springframework.security.web.savedrequest.RequestCacheAwareFilter.doFilter(RequestCacheAwareFilter.java:63)
+org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:334)
+org.springframework.security.web.session.ConcurrentSessionFilter.doFilter(ConcurrentSessionFilter.java:155)
+org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:334)
+org.springframework.security.web.authentication.AbstractAuthenticationProcessingFilter.doFilter(AbstractAuthenticationProcessingFilter.java:200)
+org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:334)
+org.springframework.security.web.authentication.logout.LogoutFilter.doFilter(LogoutFilter.java:116)
+org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:334)
+org.springframework.security.web.csrf.CsrfFilter.doFilterInternal(CsrfFilter.java:100)
+org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:118)
+org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:334)
+org.springframework.security.web.header.HeaderWriterFilter.doFilterInternal(HeaderWriterFilter.java:74)
+org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:118)
+org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:334)
+org.springframework.security.web.context.SecurityContextPersistenceFilter.doFilter(SecurityContextPersistenceFilter.java:105)
+org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:334)
+org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter.doFilterInternal(WebAsyncManagerIntegrationFilter.java:56)
+org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:118)
+org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:334)
+org.springframework.security.web.FilterChainProxy.doFilterInternal(FilterChainProxy.java:215)
+org.springframework.security.web.FilterChainProxy.doFilter(FilterChainProxy.java:178)
+org.springframework.web.filter.DelegatingFilterProxy.invokeDelegate(DelegatingFilterProxy.java:357)
+org.springframework.web.filter.DelegatingFilterProxy.doFilter(DelegatingFilterProxy.java:270)
+org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:99)
+org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:118)
+org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:92)
+org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:118)
+org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+org.springframework.web.filter.HiddenHttpMethodFilter.doFilterInternal(HiddenHttpMethodFilter.java:93)
+org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:118)
+org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+org.springframework.boot.actuate.metrics.web.servlet.WebMvcMetricsFilter.filterAndRecordMetrics(WebMvcMetricsFilter.java:114)
+org.springframework.boot.actuate.metrics.web.servlet.WebMvcMetricsFilter.doFilterInternal(WebMvcMetricsFilter.java:104)
+org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:118)
+org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:200)
+org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:118)
+org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202)
+org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:526)
+org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139)
+org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+com.evolveum.midpoint.web.boot.TomcatRootValve.invoke(TomcatRootValve.java:60)
+org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:408)
+org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:860)
+org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1587)
+org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+java.base/java.lang.Thread.run(Thread.java:834)
+</details>
+                                <partialResults>
+                                    <operation>com.evolveum.midpoint.repo.api.RepositoryService.addObject</operation>
+                                    <qualifier>CaseType</qualifier>
+                                    <status>fatal_error</status>
+                                    <importance>normal</importance>
+                                    <start>2026-04-08T12:07:22.187+02:00</start>
+                                    <end>2026-04-08T12:07:22.194+02:00</end>
+                                    <microseconds>4576</microseconds>
+                                    <invocationId>13409001</invocationId>
+                                    <params>
+                                        <entry key="options">
+                                            <paramValue>RepoAddOptions(overwrite=false,allowUnencryptedValues=false)</paramValue>
+                                        </entry>
+                                        <entry key="object">
+                                            <paramValue>case:null(Approving and executing change of user "PAPAEVB" (started Apr 8, 2026, 12:07:22 PM))</paramValue>
+                                        </entry>
+                                    </params>
+                                    <token>1000000000000817703</token>
+                                    <message>Invalid character with regards to XML (code 57101) in 'SHOUT: 2026-04-08 12:46:44.595406: MCPLogger: --- ENOK MCP v2026 ACTIVE ---  INFO: 2026-04-08 12:46:44.595406: MCPLogger: Listening on port 8080  2026-04-08T12:46:51.176630  0:00:00.000331 GET     [200...'</message>
+                                    <details>java.lang.IllegalStateException: Invalid character with regards to XML (code 57101) in 'SHOUT: 2026-04-08 12:46:44.595406: MCPLogger: --- ENOK MCP v2026 ACTIVE ---  INFO: 2026-04-08 12:46:44.595406: MCPLogger: Listening on port 8080  2026-04-08T12:46:51.176630  0:00:00.000331 GET     [200...'
+com.evolveum.midpoint.util.DOMUtil.checkValidXmlChars(DOMUtil.java:1376)
+com.evolveum.midpoint.util.DOMUtil.setElementTextContent(DOMUtil.java:1364)
+com.evolveum.midpoint.prism.impl.lex.dom.DomLexicalWriter.serializePrimitiveElementOrAttribute(DomLexicalWriter.java:324)
+com.evolveum.midpoint.prism.impl.lex.dom.DomLexicalWriter.serializeSubnode(DomLexicalWriter.java:196)
+com.evolveum.midpoint.prism.impl.lex.dom.DomLexicalWriter.serializeMap(DomLexicalWriter.java:170)
+com.evolveum.midpoint.prism.impl.lex.dom.DomLexicalWriter.serializeSubnode(DomLexicalWriter.java:190)
+com.evolveum.midpoint.prism.impl.lex.dom.DomLexicalWriter.serializeMap(DomLexicalWriter.java:170)
+com.evolveum.midpoint.prism.impl.lex.dom.DomLexicalWriter.serializeSubnode(DomLexicalWriter.java:190)
+com.evolveum.midpoint.prism.impl.lex.dom.DomLexicalWriter.serializeMap(DomLexicalWriter.java:170)
+com.evolveum.midpoint.prism.impl.lex.dom.DomLexicalWriter.serializeSubnode(DomLexicalWriter.java:190)
+com.evolveum.midpoint.prism.impl.lex.dom.DomLexicalWriter.serializeMap(DomLexicalWriter.java:170)
+com.evolveum.midpoint.prism.impl.lex.dom.DomLexicalWriter.serializeInternal(DomLexicalWriter.java:130)
+com.evolveum.midpoint.prism.impl.lex.dom.DomLexicalWriter.serialize(DomLexicalWriter.java:80)
+com.evolveum.midpoint.prism.impl.lex.dom.DomLexicalProcessor.write(DomLexicalProcessor.java:563)
+com.evolveum.midpoint.prism.impl.lex.dom.DomLexicalProcessor.write(DomLexicalProcessor.java:51)
+com.evolveum.midpoint.prism.impl.SerializerStringTarget.write(SerializerStringTarget.java:36)
+com.evolveum.midpoint.prism.impl.SerializerStringTarget.write(SerializerStringTarget.java:23)
+com.evolveum.midpoint.prism.impl.marshaller.PrismSerializerImpl.serialize(PrismSerializerImpl.java:97)
+com.evolveum.midpoint.repo.sql.helpers.ObjectUpdater.updateFullObject(ObjectUpdater.java:262)
+com.evolveum.midpoint.repo.sql.helpers.ObjectUpdater.nonOverwriteAddObjectAttempt(ObjectUpdater.java:296)
+com.evolveum.midpoint.repo.sql.helpers.ObjectUpdater.addObjectAttempt(ObjectUpdater.java:129)
+com.evolveum.midpoint.repo.sql.SqlRepositoryServiceImpl.addObject(SqlRepositoryServiceImpl.java:459)
+com.evolveum.midpoint.repo.cache.RepositoryCache.addObject(RepositoryCache.java:460)
+com.evolveum.midpoint.wf.impl.processors.ModelHelper.addCase(ModelHelper.java:171)
+com.evolveum.midpoint.wf.impl.processors.ModelHelper.addRoot(ModelHelper.java:125)
+com.evolveum.midpoint.wf.impl.processors.primary.PrimaryChangeProcessor.addRoot(PrimaryChangeProcessor.java:353)
+com.evolveum.midpoint.wf.impl.processors.primary.PrimaryChangeProcessor.executeStartInstructions(PrimaryChangeProcessor.java:279)
+com.evolveum.midpoint.wf.impl.processors.primary.PrimaryChangeProcessor.previewOrProcessModelInvocation(PrimaryChangeProcessor.java:168)
+com.evolveum.midpoint.wf.impl.processors.primary.PrimaryChangeProcessor.processModelInvocation(PrimaryChangeProcessor.java:122)
+com.evolveum.midpoint.wf.impl.hook.WfHook.processModelInvocation(WfHook.java:173)
+com.evolveum.midpoint.wf.impl.hook.WfHook.invoke(WfHook.java:122)
+com.evolveum.midpoint.model.impl.lens.Clockwork.invokeHooks(Clockwork.java:726)
+com.evolveum.midpoint.model.impl.lens.Clockwork.click(Clockwork.java:622)
+com.evolveum.midpoint.model.impl.lens.Clockwork.run(Clockwork.java:200)
+com.evolveum.midpoint.model.impl.controller.ModelController.executeChanges(ModelController.java:556)
+com.evolveum.midpoint.model.impl.controller.ModelController.executeChanges(ModelController.java:343)
+jdk.internal.reflect.GeneratedMethodAccessor1154.invoke(Unknown Source)
+java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+java.base/java.lang.reflect.Method.invoke(Method.java:566)
+org.apache.wicket.proxy.LazyInitProxyFactory$JdkHandler.invoke(LazyInitProxyFactory.java:521)
+com.sun.proxy.$Proxy217.executeChanges(Unknown Source)
+com.evolveum.midpoint.web.page.self.PageAssignmentsList.onSingleUserRequestPerformed(PageAssignmentsList.java:283)
+com.evolveum.midpoint.web.page.self.PageAssignmentsList.access$400(PageAssignmentsList.java:72)
+com.evolveum.midpoint.web.page.self.PageAssignmentsList$6.onClick(PageAssignmentsList.java:222)
+org.apache.wicket.ajax.markup.html.AjaxLink$1.onEvent(AjaxLink.java:85)
+org.apache.wicket.ajax.AjaxEventBehavior.respond(AjaxEventBehavior.java:127)
+org.apache.wicket.ajax.AbstractDefaultAjaxBehavior.onRequest(AbstractDefaultAjaxBehavior.java:598)
+org.apache.wicket.core.request.handler.ListenerRequestHandler.internalInvoke(ListenerRequestHandler.java:306)
+org.apache.wicket.core.request.handler.ListenerRequestHandler.invoke(ListenerRequestHandler.java:280)
+org.apache.wicket.core.request.handler.ListenerRequestHandler.invokeListener(ListenerRequestHandler.java:222)
+org.apache.wicket.core.request.handler.ListenerRequestHandler.respond(ListenerRequestHandler.java:208)
+org.apache.wicket.request.cycle.RequestCycle$HandlerExecutor.respond(RequestCycle.java:914)
+org.apache.wicket.request.RequestHandlerExecutor.execute(RequestHandlerExecutor.java:65)
+org.apache.wicket.request.cycle.RequestCycle.execute(RequestCycle.java:282)
+org.apache.wicket.request.cycle.RequestCycle.processRequest(RequestCycle.java:253)
+org.apache.wicket.request.cycle.RequestCycle.processRequestAndDetach(RequestCycle.java:221)
+org.apache.wicket.protocol.http.WicketFilter.processRequestCycle(WicketFilter.java:275)
+org.apache.wicket.protocol.http.WicketFilter.processRequest(WicketFilter.java:206)
+org.apache.wicket.protocol.http.WicketFilter.doFilter(WicketFilter.java:299)
+org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+com.evolveum.midpoint.web.util.MidPointProfilingServletFilter.doFilter(MidPointProfilingServletFilter.java:85)
+org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:320)
+org.springframework.security.web.access.intercept.FilterSecurityInterceptor.invoke(FilterSecurityInterceptor.java:127)
+org.springframework.security.web.access.intercept.FilterSecurityInterceptor.doFilter(FilterSecurityInterceptor.java:91)
+org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:334)
+org.springframework.security.web.access.ExceptionTranslationFilter.doFilter(ExceptionTranslationFilter.java:119)
+org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:334)
+org.springframework.security.web.session.SessionManagementFilter.doFilter(SessionManagementFilter.java:137)
+org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:334)
+org.springframework.security.web.authentication.AnonymousAuthenticationFilter.doFilter(AnonymousAuthenticationFilter.java:111)
+org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:334)
+org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter.doFilter(SecurityContextHolderAwareRequestFilter.java:170)
+org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:334)
+org.springframework.security.web.savedrequest.RequestCacheAwareFilter.doFilter(RequestCacheAwareFilter.java:63)
+org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:334)
+org.springframework.security.web.session.ConcurrentSessionFilter.doFilter(ConcurrentSessionFilter.java:155)
+org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:334)
+org.springframework.security.web.authentication.AbstractAuthenticationProcessingFilter.doFilter(AbstractAuthenticationProcessingFilter.java:200)
+org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:334)
+org.springframework.security.web.authentication.logout.LogoutFilter.doFilter(LogoutFilter.java:116)
+org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:334)
+org.springframework.security.web.csrf.CsrfFilter.doFilterInternal(CsrfFilter.java:100)
+org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:118)
+org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:334)
+org.springframework.security.web.header.HeaderWriterFilter.doFilterInternal(HeaderWriterFilter.java:74)
+org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:118)
+org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:334)
+org.springframework.security.web.context.SecurityContextPersistenceFilter.doFilter(SecurityContextPersistenceFilter.java:105)
+org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:334)
+org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter.doFilterInternal(WebAsyncManagerIntegrationFilter.java:56)
+org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:118)
+org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:334)
+org.springframework.security.web.FilterChainProxy.doFilterInternal(FilterChainProxy.java:215)
+org.springframework.security.web.FilterChainProxy.doFilter(FilterChainProxy.java:178)
+org.springframework.web.filter.DelegatingFilterProxy.invokeDelegate(DelegatingFilterProxy.java:357)
+org.springframework.web.filter.DelegatingFilterProxy.doFilter(DelegatingFilterProxy.java:270)
+org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:99)
+org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:118)
+org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:92)
+org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:118)
+org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+org.springframework.web.filter.HiddenHttpMethodFilter.doFilterInternal(HiddenHttpMethodFilter.java:93)
+org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:118)
+org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+org.springframework.boot.actuate.metrics.web.servlet.WebMvcMetricsFilter.filterAndRecordMetrics(WebMvcMetricsFilter.java:114)
+org.springframework.boot.actuate.metrics.web.servlet.WebMvcMetricsFilter.doFilterInternal(WebMvcMetricsFilter.java:104)
+org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:118)
+org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:200)
+org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:118)
+org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202)
+org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:526)
+org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139)
+org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+com.evolveum.midpoint.web.boot.TomcatRootValve.invoke(TomcatRootValve.java:60)
+org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:408)
+org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:860)
+org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1587)
+org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+java.base/java.lang.Thread.run(Thread.java:834)
+</details>
+                                </partialResults>
+                            </partialResults>
+                        </partialResults>
+                    </partialResults>
+                </partialResults>
+            </partialResults>
+        </partialResults>
+    </partialResults>
+</operationResult>
