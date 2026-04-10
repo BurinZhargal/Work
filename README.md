@@ -113,6 +113,31 @@ https://reportcontent.google.com/forms/dsa_appeal?token=1-7821000040187-05910930
 Результат проверки, которую вы подали в 10.04.2026, 12:31:34: НЕВОЗМОЖНО ПРОВЕРИТЬ.
 
 Причины::
+Я ВСЕ СКАЗАЛ
+secretTown2189, In some cultures, there’s a stigma against getting help or an assumption that only “crazy” people talk to therapists.
+
+
+This is simply untrue. 
+
+
+As a psychologist, my patients have talked to me about all kinds of things: challenging relationships, work stress, breakups, how to grow, making decisions, health issues—anything you can imagine, including their mental health.
+
+
+Ultimately, therapy is for anyone who wants to focus on living a better, healthier life—and positively impact those around them.
+
+There’s nothing “crazy” about that.
+
+
+If you’ve hesitated to start therapy, online therapy is a great first step and has proven to be just as effective as in-person counseling.
+
+
+Give it a try and, if you have questions, get in touch at therapy@7cups.com and we’ll reply back soon.
+
+Start Online Therapy
+Glen Moriarty, Psy.D
+
+Founder, 7 Cups
+ЭТО ВРАНЬЕ KHUDLAR
 
 
 - Фото не соответствует проверенной категории ЗАШШИБИСЬ НУ КОНЕЧНО! БЕЗБОЖНИКИ ДЛЯ ВАС МАЙКЛ ДЖЕЙКСОН И Я ЭТО ПРОСТО ТРЯПКИ....
