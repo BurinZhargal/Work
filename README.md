@@ -510,3 +510,5 @@ Rusprofile.ru © 2013-2026
 Новым Владельцем Спотифай становится...
 Маукин Никита
 Зайцев Антон Дмитриевич
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/a7272998-d1bd-4b59-aad1-a6a2883b269a" />
+
