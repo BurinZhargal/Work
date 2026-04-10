@@ -141,3 +141,21 @@ Founder, 7 Cups
 
 
 - Фото не соответствует проверенной категории ЗАШШИБИСЬ НУ КОНЕЧНО! БЕЗБОЖНИКИ ДЛЯ ВАС МАЙКЛ ДЖЕЙКСОН И Я ЭТО ПРОСТО ТРЯПКИ....
+- 
+This is an image
+BLIZZARD ENTERTAINMENT
+This is an image
+Dear Zhargal9,
+
+Issue ID: #107896291
+
+A Game Master resolved your ticket, and left the following response:
+
+Hello Zhargal9, I am Game Master Suvilimy here at your service. Thank you forr sharing your thoughts with us Zhargal9. I can see that you are expressing some very serious concerns, and I want to acknowledge the depthof your feelings. However we must inform you that we are unable to assist with the matters you've raised as they do not pertain to any specific Battle.net issue or game support. If you do have any questions or concerns related to your Battle.net account or our games, please feel free to reach out again. Till we meet again, I wish to get your understanding this time. If there is anything else we can do to help, we'll happily help you out wherever we can. GM, Suvilimy.
+
+If you continue to experience issues, you can reopen this ticket. If you have a new or separate issue, please submit a new ticket.
+
+Make sure you complete our survey to let us know how we did.
+
+Regards,
+Blizzard Support LIES
