@@ -512,3 +512,6 @@ Rusprofile.ru © 2013-2026
 Зайцев Антон Дмитриевич
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/a7272998-d1bd-4b59-aad1-a6a2883b269a" />
 
+<img width="1919" height="1079" alt="Снимок экрана 2026-04-11 201117" src="https://github.com/user-attachments/assets/80aa935c-aaf5-46b0-9d1d-dee66763884d" />
+
+Me forever leave this stupid racist garbage.Pathetically named as "Fanatical" it was HIStory, MJ created. YALL RUINED US
