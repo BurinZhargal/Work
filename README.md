@@ -520,4 +520,6 @@ Me forever leave this stupid racist garbage.Pathetically named as "Fanatical" it
 14 апреля 2026 г. 17:08:44 ТАК ВСЕХ КТО БЫЛ НА ВСТРЕЧЕ К 15 апреля 2026 г. 8:01:38 почему такой суровый язык?? Потому что уже CopilotGemini не понимает...будет всем плохо по часам гщде то он ошивается
 in 1812 till today. Ей вообще modern peaceful lang this is Not interested lol
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/599bac5a-d7b8-4108-9aa8-6dda3281ae99" />
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/416ce659-af75-4b55-9f5a-6a981d1ba71f" />
+Me mistaked Why again NO MONGOLIA???
 
