@@ -522,4 +522,8 @@ in 1812 till today. Ей вообще modern peaceful lang this is Not intereste
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/599bac5a-d7b8-4108-9aa8-6dda3281ae99" />
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/416ce659-af75-4b55-9f5a-6a981d1ba71f" />
 Me mistaked Why again NO MONGOLIA???
+HEY WATSON BE POPROSCHE DO NOT ... SSORA SO MNOQ SORA
+<img width="1918" height="1079" alt="image" src="https://github.com/user-attachments/assets/4d8041df-4382-457e-b300-c0643fa376b2" />
 
+
+VERY BAD VERY BAD
