@@ -524,6 +524,35 @@ in 1812 till today. Ей вообще modern peaceful lang this is Not intereste
 Me mistaked Why again NO MONGOLIA???
 HEY WATSON BE POPROSCHE DO NOT ... SSORA SO MNOQ SORA
 <img width="1918" height="1079" alt="image" src="https://github.com/user-attachments/assets/4d8041df-4382-457e-b300-c0643fa376b2" />
+SHOUT: 2026-04-17 12:25:23.093009: MCPLogger: --- ENOK MCP v2026 ACTIVE ---
+INFO: 2026-04-17 12:25:23.102866: MCPLogger: Listening on port 8080
+ THSI IS WHAT A MESS WHY OFFICE CLOSED NOW ALL PROGRAMMERS AGAIN FIRED ЭТО ЧТО ЗА БЕЗОБРАЗИЕ НЕМЕДЛЕННО ПРЕКРАТИТЬ
+ Информационные технологии
+Россия
+Центральный ФО РФ
+Москва
+123317, Пресненская наб., 10
+Реклама на этой странице
 
+
+
+
+
+Конференция TAdviser RPA/BPM Day Цифровизация бизнес-процессов
+
+
+TEAMLY×QSOFT: знания, обучение, ИИ — 23 апреля
+
+Конференция о том, как знания, обучение и ИИ помогают снижать издержки и повышать эффективность бизнеса
+
+
+
+Объем российского рынка музыкальных сервисов за 2025 год вырос на 23% и достиг 46 млрд рублей
+
+Аналитика рынка
+Казакова Ирина АнатольевнаПерсона
+Россия
+Информационные технологии
+УВОЛЕНА
 
 VERY BAD VERY BAD
