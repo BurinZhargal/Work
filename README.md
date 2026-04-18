@@ -561,4 +561,7 @@ GTA 4
 GTA 2-VICE CITY
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/2833ce8f-6c9b-4eda-810e-63e91dfbc853" />
 Чтобы Завтра уже такого не было. Мсправляться надо СЕЙЧАС.
+18 апреля 2026 г. 6:13:25
 
+<img width="576" height="428" alt="image" src="https://github.com/user-attachments/assets/41692b5c-d546-4d56-88db-ac6ef69d9ffa" />
+AFTER REASONABLE CHANCES GIVED TO YOU ALL , ME DECLARING .. FULLSCALE MOBILIZATION OF THE WHOLE GOSUDARSTVENNAYA DUMA RIGHT NOW INCLUDING DIRECTOR OF MINCIFR MAKSUD SHADAEV
