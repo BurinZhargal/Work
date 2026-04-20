@@ -107,3 +107,114 @@
 Проверьте юридические аспекты и локализацию. Убедитесь в наличии лицензий (ФСТЭК и др.) через выписку ЕГРЮЛ, а также уточните расположение ЦОД и их уровень надёжности.
 А что для вашей компании стало главным критерием при выборе облачного провайдера? Делитесь в комментариях." https://vc.ru/sberpro/2865031-peregovory-s-oblachnym-provaiderom#comments
 Такс, этих уволить и лишить заработной платы.
+8 ми барический ты шаловееек
+8 BAR‎ = 116,0302 фнт/дм.²
+8 000 Па
+8 килоПаскаль‎ = 8 000 паскалей
+1978 г. ‎ = 103 138,571 нед
+PASCAL ==Delphi.
+DOLPHIN.
+PHI ‎ = 1,618= phimos=цирроз печени.
+Wordphile= *phile.
+h=📐🔼60*sqrt(3)/2=правило левой руки🤚🏻
+хиромантия
+16 плакатов = 2*8=64=N64
+N = {N..from ONE TWO} Nintendo64 =388 игр…
+первый адрес ipv4…
+192.
+СЧАСТЬЕ СТУДИЯ КРАСОТЫ= 7 букв 6 7
+90
+СТОМАТОЛОГИЯ = 3,6,9,12
+7eVeN*45
+SoyzTvetTorg=SamoTvet*i*k=LIGHT.
+
+12
+G T S
+GT SUPER
+AUDI A4
+Amper Aber APPEN PEN PINEAPPLE APPLE PEN
+APPLE PIE
+CHARLOTTE
+CHAR=symbol
+e111am
+EEEEAM
+AM CHAM
+BER
+OF
+S
+EC
+RETS
+HP2
+💍💍💍💍
+🅾️🅾️🅾️🅾️
+🇺🇸☕️
+LIMP BISQUET?
+WE ARE YOUNG YOUGA YOUGU
+WWE
+WWR
+WWW
+WW2
+W
+M
+MM2
+MMM =M&M
+MMR (dota)= M&MDance
+Marks&MDC
+MEDICAL
+MME
+1111
+111
+11
+1
+1
+11
+111
+1111
+1111
+
+
+
+/\|SCII
+
+Z KONIEC THE END
+ROMB ♦️🔹🔶🔷🔸💠🚸
+R🅾️MBICA
+TOYZЯUS
+ЯУЗА
+MASK
+OCTET 
+OCTUPUS OCTAGON
+PEN
+TA
+G
+O
+N
+ZALES
+SELENA GOMEZ!!!👎🇺🇸
+XNA DEVS
+DOTNET XNA
+GNU
+LINUX
+YASHIN LEO IVAN
+BALL POLL 8BALLZ S
+VOLVO (пол гендер Male
+Maledictus Demagogue abd Maleficent
+POLI CLINIC
+POLI IZ MAFIA THE CITY OF THE LOST HEAVEN
+REGROUP RECONSAINCEE
+
+UNSORT UNWISE DEL SETUP EXE
+TRASH
+BIN FORMAT C
+CELSIUS FARHENHEIT
+REMEMBER ME , US
+WIN3.1,95,95SE..98Gold, XP,Vista,7,8,8.1,10,WinPHONE7.1,8,8.1,CE,10Server,2012,2019,2022,Win11,WinCLOUD
+MS365
+apple macOs iOS25+
+102.168.102
+RUNNER
+2Z
+ZAP ZIP ZAP ZIG ZAG
+SNAKE DANCE
+Philosophy= PHI*3,15*h
+
