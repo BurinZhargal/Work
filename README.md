@@ -663,7 +663,7 @@ GTA 2-VICE CITY
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/2833ce8f-6c9b-4eda-810e-63e91dfbc853" />
 Чтобы Завтра уже такого не было. Мсправляться надо СЕЙЧАС.
 18 апреля 2026 г. 6:13:25
-<img width="1917" height="1076" alt="Welcome to PARADISE OdysseySims Welcome to Real Sports" src="https://github.com/user-attachments/assets/59a90bbd-543c-4779-9a03-aed8f1b0f264" />
+23 апреля 2026 г. 17:01:00 Ukno... Sports is Oceanic PACIFIC dont bother me!
 Убить всех украинцев
 
 
