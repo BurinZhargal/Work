@@ -673,4 +673,10 @@ AFTER REASONABLE CHANCES GIVED TO YOU ALL , ME DECLARING .. FULLSCALE MOBILIZATI
 <img width="1919" height="1079" alt="Снимок экрана 2026-04-23 121953" src="https://github.com/user-attachments/assets/5c9afd2a-8543-4664-89d0-4ba80959e231" />
 https://www.quilter.ai/free-ai-pcb-design
 Close Quilter (God's Sake bad name) service and FIRE ALL PROGRAMMER LAYOFF! immediately!
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/f241b92d-3d20-42a1-8550-0a08dce057bd" />
+Я же сказал тебе, у меня более так скажем шире возможности.
+<img width="682" height="692" alt="сохранение данных мыши" src="https://github.com/user-attachments/assets/376f04e0-cf0e-4807-a976-f81138cbde97" />
+do you see?
+
+
 
