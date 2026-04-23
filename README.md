@@ -677,6 +677,23 @@ Close Quilter (God's Sake bad name) service and FIRE ALL PROGRAMMER LAYOFF! imme
 Я же сказал тебе, у меня более так скажем шире возможности.
 <img width="682" height="692" alt="сохранение данных мыши" src="https://github.com/user-attachments/assets/376f04e0-cf0e-4807-a976-f81138cbde97" />
 do you see?
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/d4c8a8ad-c253-4706-b036-b3777c4e3485" />
+ТАК ДЕДУЛЯ ТЫ ГДЕ БЕЛЕНЫ НАПИЛСЯ
 
+Back
+Biography
+Trivia
+IMDbPro
+
+Jon Spurney
+Biography
+Jon Spurney
+
+Mini bio (1)
+Mini bio
+Jon Spurney is known for Документалистика сегодня! (2015), Дома с Эми Седарис (2017) and Fred Armisen: Standup For Drummers (2018).
+Trivia
+https://www.imdb.com/name/nm0819946/bio/?ref_=nm_ov_bio_sm
+УБИТЬ АРЕСТОВАТЬ НЕМЕДЛЕННО
 
 
