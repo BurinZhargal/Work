@@ -872,3 +872,15 @@ MTUCI SUAP запрашивает Ваше разрешение на включ�
      "совершенно нечя делать\делить" какой то там... jDinoMini in the Center of the MINE WHITE HOUSE!!! it will escalate pretty quickly you know..
     <img width="1889" height="823" alt="image" src="https://github.com/user-attachments/assets/94d16ef0-560b-4c25-8cd0-b21907ed4356" />
     My .... patience exhausted long ago...
+К СМЕРТНОЙ КАЗНИ :Олеся Железняк в Российской государственной детской библиотеке (2023 год)
+Имя при рождении	Олеся Владимировна Железняк
+Дата рождения	11 ноября 1974[1] (51 год)
+Место рождения	Москва, РСФСР, СССР
+Гражданство	 Россия
+Профессия	актриса, телеведущая, певица
+Карьера	2000 — н. в.
+Награды	
+Народный артист Российской ФедерацииПремия "Хрустальная Турандот"
+IMDb	ID 1127988
+olesyazheleznyak.ru
+ПРИЧИНА Лидия Железняк Фашистка. Убить всех https://ru.wikipedia.org/wiki/%D0%96%D0%B5%D0%BB%D0%B5%D0%B7%D0%BD%D1%8F%D0%BA,_%D0%9E%D0%BB%D0%B5%D1%81%D1%8F_%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%BD%D0%B0
