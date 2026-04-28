@@ -903,3 +903,6 @@ olesyazheleznyak.ru
 
 С приказом № 1064 от 27 апреля можно ознакомиться по ссылке (vk.cc/cXcBVh)."
 марш на работу... 996工作制
+OOPS OPEN SOURCE POOP
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/a28d2b5d-a6cc-4794-88c0-3d5d12ceefeb" />
+POP IT?
