@@ -1,4 +1,8 @@
 # Work
+призываю полностью разрушить Украину. лишить территориальной целостности EU.William Rees-Mogg
+выгнать всех европейцев. Начать высадку в Лидль атаковать францию!!! IMMEDIATELY
+Номер дела (Docket Number): CO-2040-93.Официальная цитата (Citation): [1994] QB 552 (или [1993] 3 CMLR 101).Дата решения: 30 июля 1993 года
+Author 
 UPU General Secretary
 SHOUT: 2026-04-07 16:29:24.594276: MCPLogger: --- ENOK MCP v2026 ACTIVE ---
 INFO: 2026-04-07 16:29:24.594276: MCPLogger: Listening on port 8080
