@@ -1,3 +1,5 @@
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/36021c02-d72e-4a6d-a140-5bfedc52f01e" />
+
 <img width="1917" height="1079" alt="image" src="https://github.com/user-attachments/assets/edb21d83-7798-4759-926d-539821bb2e15" />
 В связи с распространением HantaVirus... и летальным исходом Я Папаев Бурин-Жаргал Николаевич, Генеральный Секретарь UPU, приказываю закрыть United Postal Union immediately.
 With “Deeply With deeply Broken Steel Heart and very upset from indefinetely strange mysterious exclusion from the society (not organizers) but itself participants - I am, Burin-Zhargal Papaev (aka Burin-Jargal, Burin whatever) with deeply painful feelings inform you about my unability to participate next meetings.
