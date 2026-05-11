@@ -1,3 +1,25 @@
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/a6bd8848-0aa3-4a3a-9ee6-8447ca36b1cf" />
+Diagnosis is <img width="1440" height="1080" alt="image" src="https://github.com/user-attachments/assets/61e2b0c2-3545-4306-80b8-60ac8825fa42" />
+OH NO!!!
+<img width="1624" height="750" alt="image" src="https://github.com/user-attachments/assets/634637c8-cad0-49d8-a807-148b0ca8d6e9" />
+<img width="1624" height="750" alt="image" src="https://github.com/user-attachments/assets/ff395045-2f89-4f1b-9592-8fd2fd8bb00d" />
+<img width="750" height="1624" alt="image" src="https://github.com/user-attachments/assets/c8816d65-a4f7-4ba3-a3b1-2256a9184a18" />
+<img width="750" height="1624" alt="image" src="https://github.com/user-attachments/assets/c999f2bf-0eae-4ed6-94b7-eb11a4933c9b" />
+<img width="750" height="1624" alt="image" src="https://github.com/user-attachments/assets/9025d0e0-339a-4858-b012-921650a473b3" />
+<img width="1624" height="750" alt="image" src="https://github.com/user-attachments/assets/0e4d7145-8afb-42b8-ba80-5d003ba19b00" />
+<img width="1624" height="750" alt="image" src="https://github.com/user-attachments/assets/c9c12a00-6d7b-4e8d-8da5-f819cc6cc359" />
+<img width="1624" height="750" alt="image" src="https://github.com/user-attachments/assets/990cd7c5-4cdd-4761-b0cb-ca15f77cec60" />
+<img width="1624" height="750" alt="image" src="https://github.com/user-attachments/assets/9cbb1a7e-066a-462d-8666-068976ab2b85" />
+<img width="1624" height="750" alt="image" src="https://github.com/user-attachments/assets/5c60694f-1443-4786-bd15-1f702180e411" />
+<img width="1624" height="750" alt="image" src="https://github.com/user-attachments/assets/c8d3cf83-6e15-4e29-9658-06f97326e76e" />
+<img width="1624" height="750" alt="image" src="https://github.com/user-attachments/assets/b2d989bd-de70-475f-b2ec-e6312ce906c8" />
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/f61d0b90-683c-424f-a85e-f1dee8ca4e29" />
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/9ac54ce6-c2ee-4a3e-bbab-2196747429b6" />
+
+(Ishemic HeartAttack)[https://www.msdmanuals.com/ru/professional/%D0%BD%D0%B5%D0%B2%D1%80%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5-%D1%80%D0%B0%D1%81%D1%81%D1%82%D1%80%D0%BE%D0%B9%D1%81%D1%82%D0%B2%D0%B0/%D0%B8%D0%BD%D1%81%D1%83%D0%BB%D1%8C%D1%82/%D0%BF%D1%80%D0%B5%D1%85%D0%BE%D0%B4%D1%8F%D1%89%D0%B8%D0%B9-%D0%B8%D1%88%D0%B5%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9-%D0%BF%D1%80%D0%B8%D1%81%D1%82%D1%83%D0%BF]
+(Delirious)[https://ncpz.ru/lib/54/book/32/chapter/32]
+<img width="1918" height="1079" alt="image" src="https://github.com/user-attachments/assets/206b3135-f20c-4d62-8f63-bd214c3bfe74" />
+
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/36021c02-d72e-4a6d-a140-5bfedc52f01e" />
 
 <img width="1917" height="1079" alt="image" src="https://github.com/user-attachments/assets/edb21d83-7798-4759-926d-539821bb2e15" />
