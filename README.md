@@ -1,3 +1,6 @@
+<img width="1910" height="1071" alt="image" src="https://github.com/user-attachments/assets/9e9daa2d-8342-40d2-8173-506732b9e2d9" />
+Okay schizooo...
+(olay Neonazi Ukraine обосрался...позор нахуй)[https://archive.org/details/2026-05-12-203907]
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/a6bd8848-0aa3-4a3a-9ee6-8447ca36b1cf" />
 Diagnosis is <img width="1440" height="1080" alt="image" src="https://github.com/user-attachments/assets/61e2b0c2-3545-4306-80b8-60ac8825fa42" />
 OH NO!!!
