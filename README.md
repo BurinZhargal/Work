@@ -1,3 +1,5 @@
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/7db2591f-5bdb-4190-9b06-5a36478af5d9" />
+Automattic is Fascists
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/b8c69370-6027-4b87-996a-1f913a5209b0" />
 Я в очередной раз убедился что Вы все недостойные люди, то есть НЕЛЮДИ. Проклятые, оболочки...
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/5e016cf4-1d36-4430-915c-500deb6f5f05" />
