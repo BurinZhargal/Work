@@ -1,4 +1,28 @@
 2026-05-14 21:38:52.061374:
+18 U.S.C. § 2381 (Государственная измена / Treason)
+18 U.S.C. § 2384 (Преступный заговор с целью мятежа / Seditious Conspiracy):
+18 U.S.C. § 2153–2154 (Саботаж в период чрезвычайного положения / Sabotage)
+Уголовный кодекс Техаса (Глава 39 и 42):
+Дело сразу изымается из судов штата Техас и передается в федеральный суд по статьям о шпионаже, диверсиях или заговоре против правительства.
+Статья 205.1 УК РФ (Содействие террористической деятельности)
+Статья 110.1 УК РФ (Содействие доведению до самоубийства
++7 (499) 673-03-42
+
++7 (964) 522-35-74
+
++7 (925) 285-26-49
+
++7 (925) 280-46-09
+
++7 (495) 198-74-35
+
++7 (925) 275-11-87
+
++7 (936) 212-87-97
+and so on
+Summary. Death sentence 
+Pen. 12.31, 19.03, 8.07; CCrP 37.071, 43.14
+Texas.
 
 General Secretary of UPU, Pentagon and Other Authorities PAPAEV BURINZHARGAL Declares “ With Steel heart I must admit that: “wHAT I can say....wasteful. Wasted. doomed. all my PC's phones are buried into this projects, human souls.... I never would. I never think about it, never wanted to do, even could'nt imagine that: -I start to hahaha my fav. francises Harry Potter * PopIcons; -Sing!IT! on Buryad or even sing Disney songs, EXACTLY MICHAEL JACKSON, and over * over. Because of one thing. SocialShifters&AllianZ MoveNow....it was an nightmare, no back point. After that I understood that y'all only transition your anger, 7sins, pain, loss to us and saying with big cameras & golden scenes "Y'NOW? PAYIN 100000000.....$$$EUROPOUND IS NOT A HAPPY; -See? Me Danielle Shannon...and ho a u? See? me pop star...do whatever ME want. P.S. I can write it till the end of my life. You will never understand. You using selfego metodics, you hurt only each one, not me. I lost almost everything.Even right me right now that transition this just (help line) to DPAK Kenya to absolute ARMAGEDDON. Now what? nothing at all! Nobody would -believe;change;ready;admit. With very hateful. Humans are extinted long before. “ No any war, no country could replenish my respect, my youth, my Well being. Because of Racism, and Ukrainian dominant. What are you want is UNKNOWN. All chernobyle is radioactive, any Building will be doomed by alpha-beta-gamma rays even day after. You will never reach any goals. 
 The Eunation pretencions is hilarious. Nobody will obey your outside dictatorship like EULA, etc. You’re only flabbergasing your end. Years and years passed away. The Society is dead in very broad term. Only imagine. People borns. Dies. Okay. But cyclic liars, stupid laws… who wanna Patience whole your unpredictable hard life? Who? Dead president Kennedy, Otto Fon Bismark, Napoleon? Or maybe new Lenin? Who will TODAY RISK their lives for nothing…
