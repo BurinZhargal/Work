@@ -1,3 +1,12 @@
+I am thinking that Exist
+of Francais people and
+Language, and in BroadTerm
+any European in CANADA
+UNLAWFUL. I am signing 
+End of Existing Quebec and
+prohibit all Francais and
+other Nationals to entry of
+Canada.
 Thank you for your report. Please keep in mind that we only remove content from Tumblr if it is in violation of our Terms of Service or our User Guidelines.
 
 https://www.tumblr.com/kiricumber/817351546662699008
